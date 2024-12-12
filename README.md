@@ -31,4 +31,3 @@
 | **SQL**          | Advanced     |  
 | **Tableau**      | Intermediate |  
 | **Excel**        | Certified    |  
-| **CRISP-DM**     | Proficient   |    
