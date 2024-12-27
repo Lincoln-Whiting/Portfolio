@@ -70,11 +70,11 @@ def find_arbitrage_opportunities():
 
 # Function to save all arbitrage paths to CSV
 def save_to_csv(arbitrage_opportunities):
-    if not os.path.exists("/Users/lincolnwhiting/Desktop/Fall 2024/DATA 5500/data5500_hw/final_project/data"):
-        os.makedirs("/Users/lincolnwhiting/Desktop/Fall 2024/DATA 5500/data5500_hw/final_project/data")
+    if not os.path.exists("/Users/lincolnwhiting/Git Portfolio/Portfolio/Crypto_arbitrage/data"):
+        os.makedirs("/Users/lincolnwhiting/Git Portfolio/Portfolio/Crypto_arbitrage/data")
 
     timestamp = datetime.now().strftime("%Y.%m.%d:%H.%M") #add timestamp to file
-    filename = f"/Users/lincolnwhiting/Desktop/Fall 2024/DATA 5500/data5500_hw/final_project/data/arbitrage_paths_{timestamp}.csv"
+    filename = f"/Users/lincolnwhiting/Git Portfolio/Portfolio/Crypto_arbitrage/data/arbitrage_paths_{timestamp}.csv"
 #write to csv
     with open(filename, mode='w', newline='') as file:
         writer = csv.writer(file)
@@ -147,7 +147,7 @@ def paper_trade():
 
     # Load data and account balance into results.json
 def save_alpaca_json(executed_trades, account):
-    file_path = "/Users/lincolnwhiting/Desktop/Fall 2024/DATA 5500/data5500_hw/final_project/results.json"
+    file_path = "/Users/lincolnwhiting/Git Portfolio/Portfolio/Crypto_arbitrage/results.json"
     
     # call alpaca account info
     account_info = {
@@ -178,5 +178,4 @@ for path_to, path_from, factor in arbitrage_opportunities:
 
 executed_trades = paper_trade()  # save & call paper_trade Execute the trades and store them in the variable
 save_alpaca_json(executed_trades, account)  
-else:
-    print("No arbitrage opportunities found.")
+save_to_csv(arbitrage_opportunities)
