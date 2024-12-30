@@ -20,6 +20,9 @@
 ### 2. **Advanced Housing Regression – Kaggle Contest**  
    - **File**: `PyCaret_Housing_Regression.ipynb`  
    - **Description**: Conducted a comprehensive analysis of 79 housing market variables using PyCaret to execute EDA, regression modeling, tuning, and stacking to predict housing prices. Scored in the top 25% of 6,482 competition participants.  
+### 3. **LMNT Hydration Strategic Marketing Plan**  
+   - **File**: `LMNT_Marketing_Plan.pdf`  
+   - **Description**: Designed a comprehensive strategic marketing plan for LMNT, a science-based electrolyte drink. Conducted market research, created target audience personas, and developed strategies for SEO, social media campaigns, and content marketing. Included a breakeven analysis and recommendations for cause-related sponsorships and PR events.  
 
 ---  
 
