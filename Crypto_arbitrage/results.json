@@ -2,25 +2,26 @@
   "executed_trades": [
     {
       "path_to": [
-        "bch",
-        "dot",
-        "ltc",
         "eth",
+        "dot",
+        "bch",
+        "ltc",
         "btc",
         "link"
       ],
       "path_from": [
         "link",
-        "ltc",
         "btc",
         "dot",
-        "bch"
+        "bch",
+        "ltc",
+        "eth"
       ],
-      "factor": 1.0002884245436217
+      "factor": 1.0011641046256372
     }
   ],
   "alpaca_account_info": {
-    "cash": "96181.69",
-    "portfolio_value": "99681.38"
+    "cash": "93658.55",
+    "portfolio_value": "98444.95"
   }
 }
