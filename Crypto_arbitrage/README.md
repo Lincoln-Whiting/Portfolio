@@ -6,7 +6,7 @@ Cryptocurrency markets, due to their volatile nature, often experience disequili
 
 The diagram below illustrates an example of this process:
 
-![Triangular Arbitrage Diagram](assets/Arbitrage.png)
+![Triangular Arbitrage Diagram](../assets/Arbitrage.png)
 
 - **BTC → ETH** (Exchange Rate: X)
 - **ETH → USDT** (Exchange Rate: Y)
