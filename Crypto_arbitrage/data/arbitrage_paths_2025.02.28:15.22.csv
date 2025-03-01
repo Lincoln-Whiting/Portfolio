@@ -1,0 +1,1951 @@
+Path To,Path From,Factor
+"['dot', 'bch']","['bch', 'dot']",1.0000269053600002
+"['dot', 'bch']","['bch', 'ltc', 'dot']",0.9999954048509229
+"['dot', 'bch']","['bch', 'ltc', 'eth', 'dot']",0.9998007790741035
+"['dot', 'bch']","['bch', 'ltc', 'eth', 'btc', 'dot']",0.9995885807140021
+"['dot', 'bch']","['bch', 'ltc', 'eth', 'btc', 'link', 'dot']",0.9995480881936171
+"['dot', 'bch']","['bch', 'ltc', 'eth', 'link', 'dot']",0.9997956481227764
+"['dot', 'bch']","['bch', 'ltc', 'eth', 'link', 'btc', 'dot']",0.9995691944197898
+"['dot', 'bch']","['bch', 'ltc', 'btc', 'dot']",0.9997803355113543
+"['dot', 'bch']","['bch', 'ltc', 'btc', 'eth', 'dot']",0.9995918362932695
+"['dot', 'bch']","['bch', 'ltc', 'btc', 'eth', 'link', 'dot']",0.9995867064142315
+"['dot', 'bch']","['bch', 'ltc', 'btc', 'link', 'dot']",0.9997398352231383
+"['dot', 'bch']","['bch', 'ltc', 'btc', 'link', 'eth', 'dot']",0.9995448562958246
+"['dot', 'bch']","['bch', 'ltc', 'link', 'dot']",0.9999896576845916
+"['dot', 'bch']","['bch', 'ltc', 'link', 'eth', 'dot']",0.9997946300344864
+"['dot', 'bch']","['bch', 'ltc', 'link', 'eth', 'btc', 'dot']",0.9995824329794611
+"['dot', 'bch']","['bch', 'ltc', 'link', 'btc', 'dot']",0.9997631600384415
+"['dot', 'bch']","['bch', 'ltc', 'link', 'btc', 'eth', 'dot']",0.9995746640586314
+"['dot', 'bch']","['bch', 'eth', 'dot']",0.9998351039770453
+"['dot', 'bch']","['bch', 'eth', 'ltc', 'dot']",0.9998018701020556
+"['dot', 'bch']","['bch', 'eth', 'ltc', 'btc', 'dot']",0.9995868423860689
+"['dot', 'bch']","['bch', 'eth', 'ltc', 'btc', 'link', 'dot']",0.999546349936102
+"['dot', 'bch']","['bch', 'eth', 'ltc', 'link', 'dot']",0.9997961240480061
+"['dot', 'bch']","['bch', 'eth', 'ltc', 'link', 'btc', 'dot']",0.9995696702372224
+"['dot', 'bch']","['bch', 'eth', 'btc', 'dot']",0.9996228983318046
+"['dot', 'bch']","['bch', 'eth', 'btc', 'ltc', 'dot']",0.9995952250152896
+"['dot', 'bch']","['bch', 'eth', 'btc', 'ltc', 'link', 'dot']",0.9995894801488691
+"['dot', 'bch']","['bch', 'eth', 'btc', 'link', 'dot']",0.9995824044212405
+"['dot', 'bch']","['bch', 'eth', 'btc', 'link', 'ltc', 'dot']",0.9995483446235137
+"['dot', 'bch']","['bch', 'eth', 'link', 'dot']",0.9998299728495639
+"['dot', 'bch']","['bch', 'eth', 'link', 'ltc', 'dot']",0.9997959046161837
+"['dot', 'bch']","['bch', 'eth', 'link', 'ltc', 'btc', 'dot']",0.999580878183196
+"['dot', 'bch']","['bch', 'eth', 'link', 'btc', 'dot']",0.9996035113720269
+"['dot', 'bch']","['bch', 'eth', 'link', 'btc', 'ltc', 'dot']",0.9995758385922157
+"['dot', 'bch']","['bch', 'btc', 'dot']",0.9998169260547336
+"['dot', 'bch']","['bch', 'btc', 'ltc', 'dot']",0.9997892473668023
+"['dot', 'bch']","['bch', 'btc', 'ltc', 'eth', 'dot']",0.9995946617137279
+"['dot', 'bch']","['bch', 'btc', 'ltc', 'eth', 'link', 'dot']",0.9995895318201898
+"['dot', 'bch']","['bch', 'btc', 'ltc', 'link', 'dot']",0.9997835013852983
+"['dot', 'bch']","['bch', 'btc', 'ltc', 'link', 'eth', 'dot']",0.9995885139417874
+"['dot', 'bch']","['bch', 'btc', 'eth', 'dot']",0.9996284199378447
+"['dot', 'bch']","['bch', 'btc', 'eth', 'ltc', 'dot']",0.9995951929328993
+"['dot', 'bch']","['bch', 'btc', 'eth', 'ltc', 'link', 'dot']",0.9995894480666632
+"['dot', 'bch']","['bch', 'btc', 'eth', 'link', 'dot']",0.9996232898710601
+"['dot', 'bch']","['bch', 'btc', 'eth', 'link', 'ltc', 'dot']",0.9995892286802012
+"['dot', 'bch']","['bch', 'btc', 'link', 'dot']",0.9997764242842644
+"['dot', 'bch']","['bch', 'btc', 'link', 'ltc', 'dot']",0.9997423578754996
+"['dot', 'bch']","['bch', 'btc', 'link', 'ltc', 'eth', 'dot']",0.9995477813483709
+"['dot', 'bch']","['bch', 'btc', 'link', 'eth', 'dot']",0.9995814382209982
+"['dot', 'bch']","['bch', 'btc', 'link', 'eth', 'ltc', 'dot']",0.9995482127776948
+"['dot', 'bch']","['bch', 'link', 'dot']",1.0000239761505176
+"['dot', 'bch']","['bch', 'link', 'ltc', 'dot']",0.9999899013066638
+"['dot', 'bch']","['bch', 'link', 'ltc', 'eth', 'dot']",0.9997952766009809
+"['dot', 'bch']","['bch', 'link', 'ltc', 'eth', 'btc', 'dot']",0.999583079408728
+"['dot', 'bch']","['bch', 'link', 'ltc', 'btc', 'dot']",0.9997748331507443
+"['dot', 'bch']","['bch', 'link', 'ltc', 'btc', 'eth', 'dot']",0.9995863349700782
+"['dot', 'bch']","['bch', 'link', 'eth', 'dot']",0.9998289418072934
+"['dot', 'bch']","['bch', 'link', 'eth', 'ltc', 'dot']",0.9997957081371304
+"['dot', 'bch']","['bch', 'link', 'eth', 'ltc', 'btc', 'dot']",0.9995806817463994
+"['dot', 'bch']","['bch', 'link', 'eth', 'btc', 'dot']",0.9996167374699154
+"['dot', 'bch']","['bch', 'link', 'eth', 'btc', 'ltc', 'dot']",0.9995890643239563
+"['dot', 'bch']","['bch', 'link', 'btc', 'dot']",0.9997974707312353
+"['dot', 'bch']","['bch', 'link', 'btc', 'ltc', 'dot']",0.9997697925819004
+"['dot', 'bch']","['bch', 'link', 'btc', 'ltc', 'eth', 'dot']",0.999575210715246
+"['dot', 'bch']","['bch', 'link', 'btc', 'eth', 'dot']",0.9996089682824653
+"['dot', 'bch']","['bch', 'link', 'btc', 'eth', 'ltc', 'dot']",0.9995757419240804
+"['dot', 'bch', 'ltc']","['ltc', 'dot']",0.9999954048509228
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'dot']",1.0000055070464362
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'dot']",0.9998137097675973
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'btc', 'dot']",0.9996015086630772
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'btc', 'link', 'dot']",0.9995610156189915
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'link', 'dot']",0.9998085787499102
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'link', 'btc', 'dot']",0.9995821221181367
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'dot']",0.9997955322342518
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'eth', 'dot']",0.9996070301509675
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'eth', 'link', 'dot']",0.9996019001939549
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'link', 'dot']",0.9997550313304289
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'link', 'eth', 'dot']",0.9995600494394233
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'dot']",1.000002577899632
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'eth', 'dot']",0.9998075477297018
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'eth', 'btc', 'dot']",0.9995953479330165
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'btc', 'dot']",0.9997760773270534
+"['dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'btc', 'eth', 'dot']",0.9995875789118096
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'dot']",0.9998007790741035
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'dot']",0.9998118242306483
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'btc', 'dot']",0.9996018900867527
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'btc', 'link', 'dot']",0.9995613970272157
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'link', 'dot']",0.9998088956511665
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'link', 'btc', 'dot']",0.9995824389476148
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'dot']",0.9995885807140021
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'bch', 'dot']",0.9996053867029654
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'bch', 'link', 'dot']",0.9996024587281662
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'link', 'dot']",0.999548088193617
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'link', 'bch', 'dot']",0.9995583115281347
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'dot']",0.9997956481227765
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'bch', 'dot']",0.9998058739893266
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'bch', 'btc', 'dot']",0.9995959410948251
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'btc', 'dot']",0.9995691944197899
+"['dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'btc', 'bch', 'dot']",0.9995860000828132
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'dot']",0.9997803355113541
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'dot']",0.999797144724273
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'eth', 'dot']",0.9996053874085403
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'eth', 'link', 'dot']",0.9996002574599582
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'link', 'dot']",0.9997942161877893
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'link', 'eth', 'dot']",0.9995992266545741
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'dot']",0.9995918362932695
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'bch', 'dot']",0.9996028791415489
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'bch', 'link', 'dot']",0.9995999511740945
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'link', 'dot']",0.9995867064142314
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'link', 'bch', 'dot']",0.9995969301437347
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'dot']",0.9997398352231383
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'bch', 'dot']",0.9997500605188364
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'bch', 'eth', 'dot']",0.9995583122336764
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'eth', 'dot']",0.9995448562958246
+"['dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'eth', 'bch', 'dot']",0.9995558986250991
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'dot']",0.9999896576845918
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'dot']",0.9999998855354633
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'eth', 'dot']",0.9998080893348088
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'eth', 'btc', 'dot']",0.9995958894231729
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'btc', 'dot']",0.9997899119036481
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'btc', 'eth', 'dot']",0.9996014108800243
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'dot']",0.9997946300344867
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'bch', 'dot']",0.9998056751231008
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'bch', 'btc', 'dot']",0.9995957422703559
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'btc', 'dot']",0.9995824329794614
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'btc', 'bch', 'dot']",0.9995992388650634
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'dot']",0.9997631600384416
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'bch', 'dot']",0.9997799689625907
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'bch', 'eth', 'dot']",0.9995882149411043
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'eth', 'dot']",0.9995746640586315
+"['dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'eth', 'bch', 'dot']",0.999585706717203
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'dot']",0.9998007790741036
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot']",0.9998118242306485
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'dot']",0.999780330496554
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'btc', 'dot']",0.9995653074130973
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'btc', 'link', 'dot']",0.9995248158354947
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'link', 'dot']",0.9997745845662969
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'link', 'btc', 'dot']",0.9995481356342054
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'dot']",0.9996018900867529
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'ltc', 'dot']",0.9995742173518251
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'ltc', 'link', 'dot']",0.9995684726061398
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'link', 'dot']",0.9995613970272159
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'link', 'ltc', 'dot']",0.9995273379452957
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'dot']",0.9998088956511666
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'ltc', 'dot']",0.9997748281359716
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'ltc', 'btc', 'dot']",0.9995598062359095
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'btc', 'dot']",0.999582438947615
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'btc', 'ltc', 'dot']",0.9995547667511675
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot']",0.9997675463400515
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'dot']",0.9997776462336831
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'btc', 'dot']",0.9995677192662666
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'btc', 'link', 'dot']",0.9995272275909618
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'link', 'dot']",0.9997747177543134
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'link', 'btc', 'dot']",0.9995482687920548
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'dot']",0.9995525260060876
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'bch', 'dot']",0.9995693313888664
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'bch', 'link', 'dot']",0.9995664035196777
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'link', 'dot']",0.9995120349462492
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'link', 'bch', 'dot']",0.999522257912016
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'dot']",0.9997618004832672
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'bch', 'dot']",0.9997720260036251
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'bch', 'btc', 'dot']",0.9995621002163089
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'btc', 'dot']",0.9995353544467706
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'btc', 'bch', 'dot']",0.9995521595408456
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'dot']",0.9995885807140021
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'dot']",0.9996053867029655
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'ltc', 'dot']",0.9995738994715833
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'ltc', 'link', 'dot']",0.9995681547277249
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'link', 'dot']",0.9996024587281663
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'link', 'ltc', 'dot']",0.9995683982471085
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'dot']",0.9995609083475276
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'bch', 'dot']",0.9995710061536522
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'bch', 'link', 'dot']",0.9995680782795581
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'link', 'dot']",0.9995551636783319
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'link', 'bch', 'dot']",0.9995653870852174
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'link', 'dot']",0.9995480881936171
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'link', 'bch', 'dot']",0.9995583115281349
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'link', 'bch', 'ltc', 'dot']",0.9995268257796046
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'link', 'ltc', 'dot']",0.9995140295651821
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'link', 'ltc', 'bch', 'dot']",0.9995241268977261
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'dot']",0.9997956481227767
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'dot']",0.9998058739893265
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'ltc', 'dot']",0.9997743804426625
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'ltc', 'btc', 'dot']",0.9995593586388859
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'btc', 'dot']",0.9995959410948249
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'btc', 'ltc', 'dot']",0.9995682685245876
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'dot']",0.999761581058978
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'bch', 'dot']",0.999771680892347
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'bch', 'btc', 'dot']",0.9995617551774949
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'btc', 'dot']",0.9995465620079691
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'btc', 'bch', 'dot']",0.9995633672904758
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'btc', 'dot']",0.9995691944197899
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'btc', 'bch', 'dot']",0.9995860000828132
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'btc', 'bch', 'ltc', 'dot']",0.999554513462103
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'btc', 'ltc', 'dot']",0.9995415225900008
+"['dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'btc', 'ltc', 'bch', 'dot']",0.9995516202002859
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot']",0.9995885807140023
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'dot']",0.9996053867029656
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'dot']",0.9995738994715833
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'eth', 'dot']",0.9993793557309529
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'eth', 'link', 'dot']",0.9993742269423593
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'link', 'dot']",0.9995681547277249
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'link', 'eth', 'dot']",0.999373209283201
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'dot']",0.999413666165697
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'ltc', 'dot']",0.9993804462990287
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'ltc', 'link', 'dot']",0.9993747026669829
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'link', 'dot']",0.9994085372010233
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'link', 'ltc', 'dot']",0.9993744833276527
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'link', 'dot']",0.9996024587281661
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'link', 'ltc', 'dot']",0.9995683982471083
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'link', 'ltc', 'eth', 'dot']",0.9993738555771631
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'link', 'eth', 'dot']",0.9994075065933445
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'link', 'eth', 'ltc', 'dot']",0.9993742869314163
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot']",0.9995609083475276
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'dot']",0.9995710061536525
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'eth', 'dot']",0.9993792922104434
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'eth', 'link', 'dot']",0.9993741634221759
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'link', 'dot']",0.9995680782795584
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'link', 'eth', 'dot']",0.9993731328499441
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'dot']",0.9993663671353166
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'bch', 'dot']",0.9993774074927576
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'bch', 'link', 'dot']",0.999374480185739
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'link', 'dot']",0.99936123841338
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'link', 'bch', 'dot']",0.9993714598368063
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'dot']",0.9995551636783319
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'bch', 'dot']",0.9995653870852175
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'bch', 'eth', 'dot']",0.9993736742197246
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'eth', 'dot']",0.999360220767448
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'eth', 'bch', 'dot']",0.999371261056988
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot']",0.9994001176494886
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'dot']",0.9994111583797837
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'ltc', 'dot']",0.9993796772665278
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'ltc', 'link', 'dot']",0.9993739336389019
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'link', 'dot']",0.9994082309739044
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'link', 'ltc', 'dot']",0.9993741771109683
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'dot']",0.9993668982331642
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'bch', 'dot']",0.9993769940793517
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'bch', 'link', 'dot']",0.9993740667735441
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'link', 'dot']",0.999361154678982
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'link', 'bch', 'dot']",0.9993713761015519
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'dot']",0.9993949887543455
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'bch', 'dot']",0.9994052105229687
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'bch', 'ltc', 'dot']",0.9993737295970684
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'ltc', 'dot']",0.9993609353426249
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'ltc', 'bch', 'dot']",0.999371031128574
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'dot']",0.9995480881936171
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'bch', 'dot']",0.9995583115281348
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'bch', 'ltc', 'dot']",0.9995268257796046
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'bch', 'ltc', 'eth', 'dot']",0.9993322912007703
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'bch', 'eth', 'dot']",0.999366600019707
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'bch', 'eth', 'ltc', 'dot']",0.9993333817174871
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'dot']",0.9995140295651822
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'bch', 'dot']",0.9995241268977262
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'bch', 'eth', 'dot']",0.9993324219457813
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'eth', 'dot']",0.9993194974768326
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'eth', 'bch', 'dot']",0.9993305373164876
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'dot']",0.9993531466626627
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'bch', 'dot']",0.9993641868740525
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'bch', 'ltc', 'dot']",0.9993327072403831
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'ltc', 'dot']",0.9993199288076238
+"['dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'ltc', 'bch', 'dot']",0.9993300241793149
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'dot']",0.9995480881936171
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'dot']",0.9995583115281349
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'ltc', 'dot']",0.9995268257796047
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'ltc', 'eth', 'dot']",0.9993322912007702
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'ltc', 'eth', 'btc', 'dot']",0.9991201922728362
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'ltc', 'btc', 'dot']",0.9993118572174906
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'ltc', 'btc', 'eth', 'dot']",0.9991234463266003
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'dot']",0.9993666000197071
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'ltc', 'dot']",0.9993333817174872
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'ltc', 'btc', 'dot']",0.999118454759451
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'btc', 'dot']",0.9991544938100475
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'btc', 'ltc', 'dot']",0.999126833460729
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'dot']",0.9993484306152283
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'ltc', 'dot']",0.9993207648970106
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'ltc', 'eth', 'dot']",0.9991262704231199
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'eth', 'dot']",0.9991600128287665
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'eth', 'ltc', 'dot']",0.9991268013933717
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'dot']",0.9995140295651822
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'bch', 'dot']",0.9995241268977262
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'bch', 'eth', 'dot']",0.9993324219457814
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'bch', 'eth', 'btc', 'dot']",0.9991203229900981
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'bch', 'btc', 'dot']",0.9993142531626915
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'bch', 'btc', 'eth', 'dot']",0.9991258418200683
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'dot']",0.9993194974768324
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'bch', 'dot']",0.9993305373164876
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'bch', 'btc', 'dot']",0.9991207042301649
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'btc', 'dot']",0.9991074012642468
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'btc', 'bch', 'dot']",0.9991241991631852
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'dot']",0.9992990637551543
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'bch', 'dot']",0.9993158648764962
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'bch', 'eth', 'dot']",0.9991241998684204
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'eth', 'dot']",0.9991106552763517
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'eth', 'bch', 'dot']",0.9991216928088523
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'dot']",0.9993531466626627
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'dot']",0.9993641868740524
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'ltc', 'dot']",0.999332707240383
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'ltc', 'btc', 'dot']",0.9991177804274068
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'btc', 'dot']",0.9991543467222092
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'btc', 'ltc', 'dot']",0.9991266863769627
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'dot']",0.9993199288076238
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'bch', 'dot']",0.9993300241793147
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'bch', 'btc', 'dot']",0.9991201912007373
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'btc', 'dot']",0.9991050047429092
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'btc', 'bch', 'dot']",0.999121802601555
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'dot']",0.9991410433083523
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'bch', 'dot']",0.9991578417729111
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'bch', 'ltc', 'dot']",0.9991263686390427
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'ltc', 'dot']",0.9991133833313941
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'ltc', 'bch', 'dot']",0.9991234766165128
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'dot']",0.9993216905629515
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'dot']",0.9993384920647157
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'ltc', 'dot']",0.9993070132404244
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'ltc', 'eth', 'dot']",0.9991125214429726
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'eth', 'dot']",0.9991468227168308
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'eth', 'ltc', 'dot']",0.9991136117198668
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'dot']",0.9992940255849988
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'bch', 'dot']",0.9993041206950093
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'bch', 'eth', 'dot']",0.9991124579394232
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'eth', 'dot']",0.9990995363152912
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'eth', 'bch', 'dot']",0.9991105737249567
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'dot']",0.9991332778180761
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'bch', 'dot']",0.999144315600496
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'bch', 'ltc', 'dot']",0.9991128428926974
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'ltc', 'dot']",0.9991000672713358
+"['dot', 'bch', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'ltc', 'bch', 'dot']",0.9991101604219327
+"['bch', 'dot']","['dot', 'bch']",1.0000269053600002
+"['bch', 'dot']","['dot', 'ltc', 'bch']",0.9999929976885422
+"['bch', 'dot']","['dot', 'ltc', 'eth', 'bch']",0.9997993172955887
+"['bch', 'dot']","['dot', 'ltc', 'eth', 'btc', 'bch']",0.9995928823502924
+"['bch', 'dot']","['dot', 'ltc', 'eth', 'btc', 'link', 'bch']",0.9995458077643388
+"['bch', 'dot']","['dot', 'ltc', 'eth', 'link', 'bch']",0.9997933671287
+"['bch', 'dot']","['dot', 'ltc', 'eth', 'link', 'btc', 'bch']",0.999573495972653
+"['bch', 'dot']","['dot', 'ltc', 'btc', 'bch']",0.9997846379728434
+"['bch', 'dot']","['dot', 'ltc', 'btc', 'eth', 'bch']",0.9995903748202437
+"['bch', 'dot']","['dot', 'ltc', 'btc', 'eth', 'link', 'bch']",0.999584425896847
+"['bch', 'dot']","['dot', 'ltc', 'btc', 'link', 'bch']",0.9997375543563967
+"['bch', 'dot']","['dot', 'ltc', 'btc', 'link', 'eth', 'bch']",0.9995433948914866
+"['bch', 'dot']","['dot', 'ltc', 'link', 'bch']",0.9999873762478902
+"['bch', 'dot']","['dot', 'ltc', 'link', 'eth', 'bch']",0.9997931682649621
+"['bch', 'dot']","['dot', 'ltc', 'link', 'eth', 'btc', 'bch']",0.9995867345892955
+"['bch', 'dot']","['dot', 'ltc', 'link', 'btc', 'bch']",0.9997674624260178
+"['bch', 'dot']","['dot', 'ltc', 'link', 'btc', 'eth', 'bch']",0.9995732026107126
+"['bch', 'dot']","['dot', 'eth', 'bch']",0.9998349185516734
+"['bch', 'dot']","['dot', 'eth', 'ltc', 'bch']",0.9998007397652418
+"['bch', 'dot']","['dot', 'eth', 'ltc', 'btc', 'bch']",0.9995924201086296
+"['bch', 'dot']","['dot', 'eth', 'ltc', 'btc', 'link', 'bch']",0.9995453455444446
+"['bch', 'dot']","['dot', 'eth', 'ltc', 'link', 'bch']",0.9997951194053638
+"['bch', 'dot']","['dot', 'eth', 'ltc', 'link', 'btc', 'bch']",0.999575247863962
+"['bch', 'dot']","['dot', 'eth', 'btc', 'bch']",0.9996284762555585
+"['bch', 'dot']","['dot', 'eth', 'btc', 'ltc', 'bch']",0.9995940949121005
+"['bch', 'dot']","['dot', 'eth', 'btc', 'ltc', 'link', 'bch']",0.9995884757138725
+"['bch', 'dot']","['dot', 'eth', 'btc', 'link', 'bch']",0.9995813999933539
+"['bch', 'dot']","['dot', 'eth', 'btc', 'link', 'ltc', 'bch']",0.999547214573326
+"['bch', 'dot']","['dot', 'eth', 'link', 'bch']",0.9998289681729088
+"['bch', 'dot']","['dot', 'eth', 'link', 'ltc', 'bch']",0.9997947742861143
+"['bch', 'dot']","['dot', 'eth', 'link', 'ltc', 'btc', 'bch']",0.9995864558724765
+"['bch', 'dot']","['dot', 'eth', 'link', 'btc', 'bch']",0.9996090891876012
+"['bch', 'dot']","['dot', 'eth', 'link', 'btc', 'ltc', 'bch']",0.9995747085109444
+"['bch', 'dot']","['dot', 'btc', 'bch']",0.9999073310654402
+"['bch', 'dot']","['dot', 'btc', 'ltc', 'bch']",0.9998729401310159
+"['bch', 'dot']","['dot', 'btc', 'ltc', 'eth', 'bch']",0.9996792829910202
+"['bch', 'dot']","['dot', 'btc', 'ltc', 'eth', 'link', 'bch']",0.9996733335384991
+"['bch', 'dot']","['dot', 'btc', 'ltc', 'link', 'bch']",0.9998673193652652
+"['bch', 'dot']","['dot', 'btc', 'ltc', 'link', 'eth', 'bch']",0.9996731346986365
+"['bch', 'dot']","['dot', 'btc', 'eth', 'bch']",0.9997130440729592
+"['bch', 'dot']","['dot', 'btc', 'eth', 'ltc', 'bch']",0.9996788694527372
+"['bch', 'dot']","['dot', 'btc', 'eth', 'ltc', 'link', 'bch']",0.9996732497779508
+"['bch', 'dot']","['dot', 'btc', 'eth', 'link', 'bch']",0.9997070944195137
+"['bch', 'dot']","['dot', 'btc', 'eth', 'link', 'ltc', 'bch']",0.9996729047007695
+"['bch', 'dot']","['dot', 'btc', 'link', 'bch']",0.9998602416709146
+"['bch', 'dot']","['dot', 'btc', 'link', 'ltc', 'bch']",0.9998260467145746
+"['bch', 'dot']","['dot', 'btc', 'link', 'ltc', 'eth', 'bch']",0.9996323986569778
+"['bch', 'dot']","['dot', 'btc', 'link', 'eth', 'bch']",0.9996660583788479
+"['bch', 'dot']","['dot', 'btc', 'link', 'eth', 'ltc', 'bch']",0.9996318853648051
+"['bch', 'dot']","['dot', 'link', 'bch']",1.00002150090005
+"['bch', 'dot']","['dot', 'link', 'ltc', 'bch']",0.9999873004286871
+"['bch', 'dot']","['dot', 'link', 'ltc', 'eth', 'bch']",0.999793621139189
+"['bch', 'dot']","['dot', 'link', 'ltc', 'eth', 'btc', 'bch']",0.9995871873700144
+"['bch', 'dot']","['dot', 'link', 'ltc', 'btc', 'bch']",0.9997789419000762
+"['bch', 'dot']","['dot', 'link', 'ltc', 'btc', 'eth', 'bch']",0.9995846798542517
+"['bch', 'dot']","['dot', 'link', 'eth', 'bch']",0.9998272862897584
+"['bch', 'dot']","['dot', 'link', 'eth', 'ltc', 'bch']",0.9997931077642314
+"['bch', 'dot']","['dot', 'link', 'eth', 'ltc', 'btc', 'bch']",0.9995847896978319
+"['bch', 'dot']","['dot', 'link', 'eth', 'btc', 'bch']",0.9996208455695252
+"['bch', 'dot']","['dot', 'link', 'eth', 'btc', 'ltc', 'bch']",0.9995864644885181
+"['bch', 'dot']","['dot', 'link', 'btc', 'bch']",0.9998015795736
+"['bch', 'dot']","['dot', 'link', 'btc', 'ltc', 'bch']",0.9997671922764054
+"['bch', 'dot']","['dot', 'link', 'btc', 'ltc', 'eth', 'bch']",0.9995735556178392
+"['bch', 'dot']","['dot', 'link', 'btc', 'eth', 'bch']",0.9996073131291627
+"['bch', 'dot']","['dot', 'link', 'btc', 'eth', 'ltc', 'bch']",0.9995731421232927
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'bch']",1.0000098005192006
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'eth', 'bch']",0.9998178169946893
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'eth', 'btc', 'bch']",0.9996113782296421
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'eth', 'btc', 'link', 'bch']",0.9995643027726479
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'eth', 'link', 'bch']",0.9998118667177022
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'eth', 'link', 'btc', 'bch']",0.9995919914932884
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'btc', 'bch']",0.9998902282698848
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'btc', 'eth', 'bch']",0.9996959446005628
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'btc', 'eth', 'link', 'bch']",0.9996899950488823
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'btc', 'link', 'bch']",0.9998431396807941
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'btc', 'link', 'eth', 'bch']",0.9996489597101124
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'link', 'bch']",1.0000043961516905
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'link', 'eth', 'bch']",0.9998101848633193
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'link', 'eth', 'btc', 'bch']",0.999603747674127
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'link', 'btc', 'bch']",0.9997844785868585
+"['bch', 'dot', 'ltc']","['ltc', 'dot', 'link', 'btc', 'eth', 'bch']",0.9995902154652283
+"['bch', 'dot', 'ltc']","['ltc', 'bch']",0.9999929976885422
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'dot', 'bch']",0.9998151719406002
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'dot', 'btc', 'bch']",0.9996956229632334
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'dot', 'btc', 'link', 'bch']",0.999648543538838
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'dot', 'link', 'bch']",0.9998097686249244
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'dot', 'link', 'btc', 'bch']",0.999589893861916
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'bch']",0.9997993172955886
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'btc', 'dot', 'bch']",0.9996029705257476
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'btc', 'dot', 'link', 'bch']",0.9995975683568749
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'btc', 'bch']",0.9995928823502923
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'btc', 'link', 'dot', 'bch']",0.999562477422443
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'btc', 'link', 'bch']",0.9995458077643387
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'link', 'dot', 'bch']",0.9998100409154096
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'link', 'dot', 'btc', 'bch']",0.999690492551565
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'link', 'bch']",0.9997933671287002
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'link', 'btc', 'dot', 'bch']",0.9995835839524556
+"['bch', 'dot', 'ltc']","['ltc', 'eth', 'link', 'btc', 'bch']",0.999573495972653
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'dot', 'bch']",0.999794728083551
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'dot', 'eth', 'bch']",0.9996027858489992
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'dot', 'eth', 'link', 'bch']",0.9995968368517402
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'dot', 'link', 'bch']",0.9997893248783598
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'dot', 'link', 'eth', 'bch']",0.9995951553590743
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'bch']",0.9997846379728434
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'eth', 'dot', 'bch']",0.9996062261518817
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'eth', 'dot', 'link', 'bch']",0.9996008239654142
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'eth', 'bch']",0.9995903748202436
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'eth', 'link', 'dot', 'bch']",0.9996010961989952
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'eth', 'link', 'bch']",0.9995844258968472
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'link', 'dot', 'bch']",0.9997542272123036
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'link', 'dot', 'eth', 'bch']",0.9995622927531755
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'link', 'bch']",0.9997375543563968
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'link', 'eth', 'dot', 'bch']",0.999559245478125
+"['bch', 'dot', 'ltc']","['ltc', 'btc', 'link', 'eth', 'bch']",0.9995433948914867
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'dot', 'bch']",1.0000040532701349
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'dot', 'eth', 'bch']",0.9998120708489899
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'dot', 'eth', 'btc', 'bch']",0.9996056332703862
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'dot', 'btc', 'bch']",0.999884481708024
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'dot', 'btc', 'eth', 'bch']",0.9996901991552876
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'bch']",0.9999873762478902
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'eth', 'dot', 'bch']",0.9998090228124635
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'eth', 'dot', 'btc', 'bch']",0.9996894745703546
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'eth', 'bch']",0.999793168264962
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'eth', 'btc', 'dot', 'bch']",0.9995968227027058
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'eth', 'btc', 'bch']",0.9995867345892955
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'btc', 'dot', 'bch']",0.9997775523633848
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'btc', 'dot', 'eth', 'bch']",0.999585613426256
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'btc', 'bch']",0.9997674624260178
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'btc', 'eth', 'dot', 'bch']",0.9995890536700366
+"['bch', 'dot', 'ltc']","['ltc', 'link', 'btc', 'eth', 'bch']",0.9995732026107125
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'bch']",0.9998151719406003
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'bch']",0.9997812714483365
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'btc', 'bch']",0.9995729558481657
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'btc', 'link', 'bch']",0.9995258822006259
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'link', 'bch']",0.9997756511978995
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'link', 'btc', 'bch']",0.9995557839378796
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'btc', 'bch']",0.9996956229632334
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'btc', 'ltc', 'bch']",0.9996612393103236
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'btc', 'ltc', 'link', 'bch']",0.9996556197346448
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'btc', 'link', 'bch']",0.9996485435388383
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'btc', 'link', 'ltc', 'bch']",0.9996143558225186
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'link', 'bch']",0.9998097686249243
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'link', 'ltc', 'bch']",0.9997755753947493
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'link', 'ltc', 'btc', 'bch']",0.9995672609814151
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'link', 'btc', 'bch']",0.999589893861916
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'dot', 'link', 'btc', 'ltc', 'bch']",0.9995555138454656
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'bch']",0.9997993172955887
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'bch']",0.9997819387281386
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'btc', 'bch']",0.9996623937245028
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'btc', 'link', 'bch']",0.9996153158649973
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'link', 'bch']",0.9997765355920651
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'link', 'btc', 'bch']",0.9995566681375524
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'bch']",0.9997651397261659
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'dot', 'bch']",0.999566915298799
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'dot', 'link', 'bch']",0.9995615133247799
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'bch']",0.9995568274872196
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'link', 'dot', 'bch']",0.999526423656062
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'link', 'bch']",0.9995097545992249
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'link', 'dot', 'bch']",0.9997761927886386
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'link', 'dot', 'btc', 'bch']",0.999656648472051
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'link', 'bch']",0.9997595195664128
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'link', 'btc', 'dot', 'bch']",0.9995497434922849
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'ltc', 'link', 'btc', 'bch']",0.9995396558540065
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'dot', 'bch']",0.9996029705257476
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'dot', 'ltc', 'bch']",0.9995690772285463
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'dot', 'ltc', 'link', 'bch']",0.9995634581709546
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'dot', 'link', 'bch']",0.9995975683568747
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'dot', 'link', 'ltc', 'bch']",0.999563382383893
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'bch']",0.9995928823502924
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'dot', 'bch']",0.999575297760909
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'dot', 'link', 'bch']",0.9995698957415886
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'bch']",0.9995585022310554
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'link', 'dot', 'bch']",0.9995695530090145
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'link', 'bch']",0.9995528832329109
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'link', 'dot', 'bch']",0.9995624774224429
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'link', 'dot', 'ltc', 'bch']",0.9995285854982312
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'link', 'bch']",0.9995458077643387
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'link', 'ltc', 'dot', 'bch']",0.9995284183037091
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'btc', 'link', 'ltc', 'bch']",0.9995116235615553
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'dot', 'bch']",0.9998100409154095
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'dot', 'ltc', 'bch']",0.9997761405971222
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'dot', 'ltc', 'btc', 'bch']",0.9995678260660218
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'dot', 'btc', 'bch']",0.999690492551565
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'dot', 'btc', 'ltc', 'bch']",0.9996561090751109
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'bch']",0.9997933671287
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'ltc', 'dot', 'bch']",0.9997759733611906
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'ltc', 'dot', 'btc', 'bch']",0.9996564290708402
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'ltc', 'bch']",0.9997591744594518
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'ltc', 'btc', 'dot', 'bch']",0.9995609512148245
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'ltc', 'btc', 'bch']",0.9995508634634357
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'btc', 'dot', 'bch']",0.9995835839524554
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'btc', 'dot', 'ltc', 'bch']",0.9995496913125897
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'btc', 'bch']",0.9995734959726529
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'btc', 'ltc', 'dot', 'bch']",0.99955591172431
+"['bch', 'dot', 'ltc', 'eth']","['eth', 'link', 'btc', 'ltc', 'bch']",0.9995391165201934
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'bch']",0.9996029705257478
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'bch']",0.999569077228546
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'eth', 'bch']",0.9993754789412488
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'eth', 'link', 'bch']",0.9993695312967753
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'link', 'bch']",0.9995634581709544
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'link', 'eth', 'bch']",0.9993693325173403
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'bch']",0.9994110651051269
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'ltc', 'bch']",0.9993769008078836
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'ltc', 'link', 'bch']",0.9993712828306078
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'link', 'bch']",0.9994051172488673
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'link', 'ltc', 'bch']",0.9993709378576625
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'link', 'bch']",0.9995975683568746
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'link', 'ltc', 'bch']",0.9995633823838929
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'link', 'ltc', 'eth', 'bch']",0.999369785199583
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'link', 'eth', 'bch']",0.9994034360787065
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'dot', 'link', 'eth', 'ltc', 'bch']",0.9993692720422573
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'bch']",0.9995928823502923
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'bch']",0.9995752977609091
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'eth', 'bch']",0.9993833976529511
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'eth', 'link', 'bch']",0.9993774499613504
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'link', 'bch']",0.9995698957415885
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'link', 'eth', 'bch']",0.9993757688377308
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch']",0.9995585022310556
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'dot', 'bch']",0.9993807537481344
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'dot', 'link', 'bch']",0.999375352780191
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'bch']",0.9993649059919422
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'link', 'dot', 'bch']",0.9993756249523661
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'link', 'bch']",0.999358958410392
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'dot', 'bch']",0.9995695530090146
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'dot', 'eth', 'bch']",0.9993776540039435
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'bch']",0.9995528832329111
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'eth', 'dot', 'bch']",0.9993746072917844
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link', 'eth', 'bch']",0.9993587596330603
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'bch']",0.9994145047481697
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'ltc', 'bch']",0.9993806178412319
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'ltc', 'link', 'bch']",0.999374999843061
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'link', 'bch']",0.9994091035978253
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'link', 'ltc', 'bch']",0.9993749240702883
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch']",0.9993986564567687
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'dot', 'bch']",0.9993812848536274
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'dot', 'link', 'bch']",0.9993758838828138
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'bch']",0.9993644925837079
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'link', 'dot', 'bch']",0.9993755412167626
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'link', 'bch']",0.9993588746761849
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'dot', 'bch']",0.9994093757791925
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'dot', 'ltc', 'bch']",0.9993754890461615
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'bch']",0.9993927086743573
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'ltc', 'dot', 'bch']",0.999375321877248
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link', 'ltc', 'bch']",0.9993585297075225
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'dot', 'bch']",0.9995624774224431
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'dot', 'ltc', 'bch']",0.9995285854982314
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'dot', 'ltc', 'eth', 'bch']",0.9993349950534431
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'dot', 'eth', 'bch']",0.9993705797757547
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'dot', 'eth', 'ltc', 'bch']",0.9993364168624794
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'bch']",0.9995458077643387
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'dot', 'bch']",0.9995284183037091
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'dot', 'eth', 'bch']",0.9993365271957466
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'bch']",0.9995116235615554
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'eth', 'dot', 'bch']",0.9993338834149272
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'ltc', 'eth', 'bch']",0.9993180364019848
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'dot', 'bch']",0.9993675330851621
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'dot', 'ltc', 'bch']",0.9993336477708811
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'bch']",0.9993516855386178
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'ltc', 'dot', 'bch']",0.9993343147519278
+"['bch', 'dot', 'ltc', 'eth', 'btc']","['btc', 'link', 'eth', 'ltc', 'bch']",0.9993175232712311
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'bch']",0.999562477422443
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'ltc', 'bch']",0.9995285854982313
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'ltc', 'eth', 'bch']",0.9993349950534433
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'ltc', 'eth', 'btc', 'bch']",0.9991286559797232
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'ltc', 'btc', 'bch']",0.9993203225480021
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'ltc', 'btc', 'eth', 'bch']",0.9991261496142103
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'bch']",0.9993705797757547
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'ltc', 'bch']",0.9993364168624793
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'ltc', 'btc', 'bch']",0.9991281939527328
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'btc', 'bch']",0.9991642333546302
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'btc', 'ltc', 'bch']",0.999129867978399
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'bch']",0.999442958660032
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'ltc', 'bch']",0.9994085836972886
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'ltc', 'eth', 'bch']",0.9992150164946593
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'eth', 'bch']",0.9992487618974306
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'eth', 'ltc', 'bch']",0.9992146031484299
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'bch']",0.9995458077643387
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'dot', 'bch']",0.9995284183037092
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'dot', 'eth', 'bch']",0.9993365271957464
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'dot', 'eth', 'btc', 'bch']",0.9991301878056753
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'dot', 'btc', 'bch']",0.9994089036137835
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'dot', 'btc', 'eth', 'bch']",0.9992147134682479
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'bch']",0.9995116235615554
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'dot', 'bch']",0.999333883414927
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'dot', 'btc', 'bch']",0.9992143919857477
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'bch']",0.9993180364019848
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'btc', 'dot', 'bch']",0.9991217841490606
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'eth', 'btc', 'bch']",0.9991117008298259
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'dot', 'bch']",0.9993134493990904
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'dot', 'eth', 'bch']",0.9991215995612112
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'bch']",0.9993033641455351
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'eth', 'dot', 'bch']",0.9991250382080095
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'ltc', 'btc', 'eth', 'bch']",0.9991091945068458
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'bch']",0.999367533085162
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'ltc', 'bch']",0.9993336477708811
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'ltc', 'btc', 'bch']",0.9991254254381057
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'btc', 'bch']",0.9992480376324555
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'btc', 'ltc', 'bch']",0.9992136693738497
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'bch']",0.9993516855386175
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'dot', 'bch']",0.9993343147519276
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'dot', 'btc', 'bch']",0.999214823271173
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'bch']",0.9993175232712309
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'btc', 'dot', 'bch']",0.9991193875932234
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'ltc', 'btc', 'bch']",0.9991093042981751
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'dot', 'bch']",0.999155426677468
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'dot', 'ltc', 'bch']",0.999121548555028
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'bch']",0.9991453430187068
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'ltc', 'dot', 'bch']",0.9991277663023242
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'ltc', 'bch']",0.9991109782921922
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'bch']",0.9993360765326171
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'ltc', 'bch']",0.999302192284926
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'ltc', 'eth', 'bch']",0.9991086456883714
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'eth', 'bch']",0.9991442223507436
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'eth', 'ltc', 'bch']",0.9991100671753679
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'bch']",0.9993259910507047
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'dot', 'bch']",0.9993084111564068
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'dot', 'eth', 'bch']",0.9991165622857776
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'bch']",0.9992916201109597
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'eth', 'dot', 'bch']",0.9991139190868833
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'ltc', 'eth', 'bch']",0.9990980755620421
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'dot', 'bch']",0.999147661075402
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'dot', 'ltc', 'bch']",0.9991137832162683
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'bch']",0.9991318170154945
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'ltc', 'dot', 'bch']",0.9991144500505714
+"['bch', 'dot', 'ltc', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'ltc', 'bch']",0.9990976622641881
+"['ltc', 'dot']","['dot', 'bch', 'ltc']",0.9999954048509228
+"['ltc', 'dot']","['dot', 'bch', 'eth', 'ltc']",0.9998018701020556
+"['ltc', 'dot']","['dot', 'bch', 'eth', 'btc', 'ltc']",0.9995952250152894
+"['ltc', 'dot']","['dot', 'bch', 'eth', 'btc', 'link', 'ltc']",0.9995483446235137
+"['ltc', 'dot']","['dot', 'bch', 'eth', 'link', 'ltc']",0.9997959046161837
+"['ltc', 'dot']","['dot', 'bch', 'eth', 'link', 'btc', 'ltc']",0.9995758385922157
+"['ltc', 'dot']","['dot', 'bch', 'btc', 'ltc']",0.9997892473668023
+"['ltc', 'dot']","['dot', 'bch', 'btc', 'eth', 'ltc']",0.9995951929328992
+"['ltc', 'dot']","['dot', 'bch', 'btc', 'eth', 'link', 'ltc']",0.9995892286802014
+"['ltc', 'dot']","['dot', 'bch', 'btc', 'link', 'ltc']",0.9997423578754994
+"['ltc', 'dot']","['dot', 'bch', 'btc', 'link', 'eth', 'ltc']",0.9995482127776949
+"['ltc', 'dot']","['dot', 'bch', 'link', 'ltc']",0.9999899013066637
+"['ltc', 'dot']","['dot', 'bch', 'link', 'eth', 'ltc']",0.9997957081371301
+"['ltc', 'dot']","['dot', 'bch', 'link', 'eth', 'btc', 'ltc']",0.9995890643239561
+"['ltc', 'dot']","['dot', 'bch', 'link', 'btc', 'ltc']",0.9997697925819002
+"['ltc', 'dot']","['dot', 'bch', 'link', 'btc', 'eth', 'ltc']",0.9995757419240805
+"['ltc', 'dot']","['dot', 'ltc']",0.9999828956194
+"['ltc', 'dot']","['dot', 'eth', 'bch', 'ltc']",0.9998034240901156
+"['ltc', 'dot']","['dot', 'eth', 'bch', 'btc', 'ltc']",0.9995973061844476
+"['ltc', 'dot']","['dot', 'eth', 'bch', 'btc', 'link', 'ltc']",0.9995504256950664
+"['ltc', 'dot']","['dot', 'eth', 'bch', 'link', 'ltc']",0.999797921602436
+"['ltc', 'dot']","['dot', 'eth', 'bch', 'link', 'btc', 'ltc']",0.9995778551345071
+"['ltc', 'dot']","['dot', 'eth', 'ltc']",0.9997906396383159
+"['ltc', 'dot']","['dot', 'eth', 'btc', 'bch', 'ltc']",0.999596988296863
+"['ltc', 'dot']","['dot', 'eth', 'btc', 'bch', 'link', 'ltc']",0.9995914869453174
+"['ltc', 'dot']","['dot', 'eth', 'btc', 'ltc']",0.9995839968727299
+"['ltc', 'dot']","['dot', 'eth', 'btc', 'link', 'bch', 'ltc']",0.999549913517545
+"['ltc', 'dot']","['dot', 'eth', 'btc', 'link', 'ltc']",0.9995371170075471
+"['ltc', 'dot']","['dot', 'eth', 'link', 'bch', 'ltc']",0.9997974738987859
+"['ltc', 'dot']","['dot', 'eth', 'link', 'bch', 'btc', 'ltc']",0.9995913572198001
+"['ltc', 'dot']","['dot', 'eth', 'link', 'ltc']",0.9997846742194527
+"['ltc', 'dot']","['dot', 'eth', 'link', 'btc', 'bch', 'ltc']",0.999577601839592
+"['ltc', 'dot']","['dot', 'eth', 'link', 'btc', 'ltc']",0.999564610667418
+"['ltc', 'dot']","['dot', 'btc', 'bch', 'ltc']",0.9998758343229127
+"['ltc', 'dot']","['dot', 'btc', 'bch', 'eth', 'ltc']",0.9996823227152039
+"['ltc', 'dot']","['dot', 'btc', 'bch', 'eth', 'link', 'ltc']",0.9996763579426315
+"['ltc', 'dot']","['dot', 'btc', 'bch', 'link', 'ltc']",0.9998703314367182
+"['ltc', 'dot']","['dot', 'btc', 'bch', 'link', 'eth', 'ltc']",0.9996761614870713
+"['ltc', 'dot']","['dot', 'btc', 'ltc']",0.999862839274712
+"['ltc', 'dot']","['dot', 'btc', 'eth', 'bch', 'ltc']",0.9996815534504062
+"['ltc', 'dot']","['dot', 'btc', 'eth', 'bch', 'link', 'ltc']",0.9996760516334502
+"['ltc', 'dot']","['dot', 'btc', 'eth', 'ltc']",0.9996687705569623
+"['ltc', 'dot']","['dot', 'btc', 'eth', 'link', 'bch', 'ltc']",0.9996756039843726
+"['ltc', 'dot']","['dot', 'btc', 'eth', 'link', 'ltc']",0.9996628058652514
+"['ltc', 'dot']","['dot', 'btc', 'link', 'bch', 'ltc']",0.9998287464116871
+"['ltc', 'dot']","['dot', 'btc', 'link', 'bch', 'eth', 'ltc']",0.9996352439171671
+"['ltc', 'dot']","['dot', 'btc', 'link', 'ltc']",0.9998159463319947
+"['ltc', 'dot']","['dot', 'btc', 'link', 'eth', 'bch', 'ltc']",0.9996345692363282
+"['ltc', 'dot']","['dot', 'btc', 'link', 'eth', 'ltc']",0.9996217869436701
+"['ltc', 'dot']","['dot', 'link', 'bch', 'ltc']",0.9999900005612113
+"['ltc', 'dot']","['dot', 'link', 'bch', 'eth', 'ltc']",0.999796466858267
+"['ltc', 'dot']","['dot', 'link', 'bch', 'eth', 'btc', 'ltc']",0.9995898228882758
+"['ltc', 'dot']","['dot', 'link', 'bch', 'btc', 'ltc']",0.9997838441912307
+"['ltc', 'dot']","['dot', 'link', 'bch', 'btc', 'eth', 'ltc']",0.9995897908060589
+"['ltc', 'dot']","['dot', 'link', 'ltc']",0.9999771984170995
+"['ltc', 'dot']","['dot', 'link', 'eth', 'bch', 'ltc']",0.9997957920686141
+"['ltc', 'dot']","['dot', 'link', 'eth', 'bch', 'btc', 'ltc']",0.9995896757363518
+"['ltc', 'dot']","['dot', 'link', 'eth', 'ltc']",0.9997830077144051
+"['ltc', 'dot']","['dot', 'link', 'eth', 'btc', 'bch', 'ltc']",0.999589357851194
+"['ltc', 'dot']","['dot', 'link', 'eth', 'btc', 'ltc']",0.9995763665262312
+"['ltc', 'dot']","['dot', 'link', 'btc', 'bch', 'ltc']",0.9997700861622087
+"['ltc', 'dot']","['dot', 'link', 'btc', 'bch', 'eth', 'ltc']",0.9995765950205378
+"['ltc', 'dot']","['dot', 'link', 'btc', 'ltc']",0.9997570924883811
+"['ltc', 'dot']","['dot', 'link', 'btc', 'eth', 'bch', 'ltc']",0.9995758258370987
+"['ltc', 'dot']","['dot', 'link', 'btc', 'eth', 'ltc']",0.9995630442955902
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'ltc']",1.0000098005192006
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'eth', 'ltc']",0.9998175393654002
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'eth', 'btc', 'ltc']",0.9996108910400162
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'eth', 'btc', 'link', 'ltc']",0.9995640099135135
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'eth', 'link', 'ltc']",0.9998115737860351
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'eth', 'link', 'btc', 'ltc']",0.9995915043131112
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'btc', 'ltc']",0.9998897409443535
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'btc', 'eth', 'ltc']",0.9996956670051153
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'btc', 'eth', 'link', 'ltc']",0.9996897021529221
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'btc', 'link', 'ltc']",0.9998428467399645
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'btc', 'link', 'eth', 'ltc']",0.9996486821277117
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'link', 'ltc']",1.0000041031636147
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'link', 'eth', 'ltc']",0.9998099072361496
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'link', 'eth', 'btc', 'ltc']",0.99960326048822
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'link', 'btc', 'ltc']",0.9997839913128671
+"['ltc', 'dot', 'bch']","['bch', 'dot', 'link', 'btc', 'eth', 'ltc']",0.9995899378991396
+"['ltc', 'dot', 'bch']","['bch', 'ltc']",0.9999954048509228
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'dot', 'ltc']",0.9998180024168897
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'dot', 'btc', 'ltc']",0.9996979658690155
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'dot', 'btc', 'link', 'ltc']",0.9996510806587577
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'dot', 'link', 'ltc']",0.999812306154035
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'dot', 'link', 'btc', 'ltc']",0.999592236519909
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'ltc']",0.9998018701020556
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'btc', 'dot', 'ltc']",0.9996058004012951
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'btc', 'dot', 'link', 'ltc']",0.999600105347419
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'btc', 'ltc']",0.9995952250152895
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'btc', 'link', 'dot', 'ltc']",0.9995653071833542
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'btc', 'link', 'ltc']",0.9995483446235137
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'link', 'dot', 'ltc']",0.999812871377173
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'link', 'dot', 'btc', 'ltc']",0.9996928354453232
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'link', 'ltc']",0.9997959046161837
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'link', 'btc', 'dot', 'ltc']",0.9995864137731194
+"['ltc', 'dot', 'bch']","['bch', 'eth', 'link', 'btc', 'ltc']",0.9995758385922157
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'dot', 'ltc']",0.9997998248055002
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'dot', 'eth', 'ltc']",0.9996076040214771
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'dot', 'eth', 'link', 'ltc']",0.9996016396947264
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'dot', 'link', 'ltc']",0.9997941286462089
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'dot', 'link', 'eth', 'ltc']",0.9995999734947726
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'ltc']",0.9997892473668023
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'eth', 'dot', 'ltc']",0.9996113219128915
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'eth', 'dot', 'link', 'ltc']",0.9996056268275576
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'eth', 'ltc']",0.9995951929328992
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'eth', 'link', 'dot', 'ltc']",0.9996061919338537
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'eth', 'link', 'ltc']",0.9995892286802013
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'link', 'dot', 'ltc']",0.9997593237277886
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'link', 'dot', 'eth', 'ltc']",0.9995671107304732
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'link', 'ltc']",0.9997423578754997
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'link', 'eth', 'dot', 'ltc']",0.9995643409996382
+"['ltc', 'dot', 'bch']","['bch', 'btc', 'link', 'eth', 'ltc']",0.9995482127776949
+"['ltc', 'dot', 'bch']","['bch', 'link', 'dot', 'ltc']",1.0000068713598205
+"['ltc', 'dot', 'bch']","['bch', 'link', 'dot', 'eth', 'ltc']",0.9998146107691781
+"['ltc', 'dot', 'bch']","['bch', 'link', 'dot', 'eth', 'btc', 'ltc']",0.9996079630490939
+"['ltc', 'dot', 'bch']","['bch', 'link', 'dot', 'btc', 'ltc']",0.9998868121366433
+"['ltc', 'dot', 'bch']","['bch', 'link', 'dot', 'btc', 'eth', 'ltc']",0.9996927387658732
+"['ltc', 'dot', 'bch']","['bch', 'link', 'ltc']",0.9999899013066638
+"['ltc', 'dot', 'bch']","['bch', 'link', 'eth', 'dot', 'ltc']",0.9998118403525379
+"['ltc', 'dot', 'bch']","['bch', 'link', 'eth', 'dot', 'btc', 'ltc']",0.9996918045444713
+"['ltc', 'dot', 'bch']","['bch', 'link', 'eth', 'ltc']",0.9997957081371303
+"['ltc', 'dot', 'bch']","['bch', 'link', 'eth', 'btc', 'dot', 'ltc']",0.9995996396447836
+"['ltc', 'dot', 'bch']","['bch', 'link', 'eth', 'btc', 'ltc']",0.9995890643239562
+"['ltc', 'dot', 'bch']","['bch', 'link', 'btc', 'dot', 'ltc']",0.999780369814773
+"['ltc', 'dot', 'bch']","['bch', 'link', 'btc', 'dot', 'eth', 'ltc']",0.9995881527711523
+"['ltc', 'dot', 'bch']","['bch', 'link', 'btc', 'ltc']",0.9997697925819004
+"['ltc', 'dot', 'bch']","['bch', 'link', 'btc', 'eth', 'dot', 'ltc']",0.9995918705902206
+"['ltc', 'dot', 'bch']","['bch', 'link', 'btc', 'eth', 'ltc']",0.9995757419240803
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'bch', 'ltc']",0.99983050958569
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'bch', 'btc', 'ltc']",0.9996243860961187
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'bch', 'btc', 'link', 'ltc']",0.9995775043367066
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'bch', 'link', 'ltc']",0.9998250069489436
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'bch', 'link', 'btc', 'ltc']",0.9996049345192335
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'ltc']",0.9998180024168897
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'btc', 'bch', 'ltc']",0.9997109587743843
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'btc', 'bch', 'link', 'ltc']",0.9997054567955942
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'btc', 'ltc']",0.9996979658690155
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'btc', 'link', 'bch', 'ltc']",0.9996638786277681
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'btc', 'link', 'ltc']",0.9996510806587579
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'link', 'bch', 'ltc']",0.9998251061871245
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'link', 'bch', 'btc', 'ltc']",0.9996189838115093
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'link', 'ltc']",0.9998123061540352
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'link', 'btc', 'bch', 'ltc']",0.9996052280511317
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'dot', 'link', 'btc', 'ltc']",0.9995922365199091
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'dot', 'ltc']",0.9998290477637071
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'dot', 'btc', 'ltc']",0.9997090098897461
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'dot', 'btc', 'link', 'ltc']",0.9996621241615309
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'dot', 'link', 'ltc']",0.9998233514379239
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'dot', 'link', 'btc', 'ltc']",0.9996032793726097
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'ltc']",0.9998146546974604
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'btc', 'dot', 'ltc']",0.9996191100033233
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'btc', 'dot', 'link', 'ltc']",0.9996134148736184
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'btc', 'ltc']",0.9996085344765081
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'btc', 'link', 'dot', 'ltc']",0.9995786162462216
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'btc', 'link', 'ltc']",0.999561653460527
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'link', 'dot', 'ltc']",0.9998261191337752
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'link', 'dot', 'btc', 'ltc']",0.9997060816114209
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'link', 'ltc']",0.9998091521479724
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'link', 'btc', 'dot', 'ltc']",0.9995996585291049
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'bch', 'link', 'btc', 'ltc']",0.9995890832080776
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'ltc']",0.9998018701020556
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'dot', 'bch', 'ltc']",0.9996183049155657
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'dot', 'bch', 'link', 'ltc']",0.9996128034467023
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'dot', 'ltc']",0.9996058004012951
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'dot', 'link', 'bch', 'ltc']",0.9996129026638207
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'dot', 'link', 'ltc']",0.9996001053474188
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'bch', 'dot', 'ltc']",0.9996226066797713
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'bch', 'dot', 'link', 'ltc']",0.9996169115301446
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'bch', 'ltc']",0.9996082165853529
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'bch', 'link', 'dot', 'ltc']",0.9996196786545325
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'bch', 'link', 'ltc']",0.9996027151720116
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'ltc']",0.9995952250152894
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'link', 'dot', 'bch', 'ltc']",0.9995778111910772
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'link', 'dot', 'ltc']",0.9995653071833542
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'link', 'bch', 'dot', 'ltc']",0.9995755306939873
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'link', 'bch', 'ltc']",0.9995611412772524
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'btc', 'link', 'ltc']",0.9995483446235136
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'dot', 'bch', 'ltc']",0.9998253784817867
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'dot', 'bch', 'btc', 'ltc']",0.9996192560500359
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'dot', 'ltc']",0.9998128713771731
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'dot', 'btc', 'bch', 'ltc']",0.9997058282840129
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'dot', 'btc', 'ltc']",0.9996928354453232
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'bch', 'dot', 'ltc']",0.9998230974198816
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'bch', 'dot', 'btc', 'ltc']",0.9997030602603095
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'bch', 'ltc']",0.9998087044392934
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'bch', 'btc', 'dot', 'ltc']",0.9996131609089133
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'bch', 'btc', 'ltc']",0.999602585445037
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'ltc']",0.9997959046161836
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'btc', 'dot', 'bch', 'ltc']",0.999598918044874
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'btc', 'dot', 'ltc']",0.9995864137731193
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'btc', 'bch', 'dot', 'ltc']",0.9996032197256499
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'btc', 'bch', 'ltc']",0.9995888299103172
+"['ltc', 'dot', 'bch', 'eth']","['eth', 'link', 'btc', 'ltc']",0.9995758385922157
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'bch', 'ltc']",0.9996183049155657
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'bch', 'eth', 'ltc']",0.9994248431489751
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'bch', 'eth', 'link', 'ltc']",0.999418879912698
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'bch', 'link', 'ltc']",0.9996128034467023
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'bch', 'link', 'eth', 'ltc']",0.9994186835077369
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'ltc']",0.999605800401295
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'eth', 'bch', 'ltc']",0.9994263965510235
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'eth', 'bch', 'link', 'ltc']",0.9994208961383413
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'eth', 'ltc']",0.9994136169202621
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'eth', 'link', 'bch', 'ltc']",0.9994204486035208
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'eth', 'link', 'ltc']",0.9994076537509681
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'link', 'bch', 'ltc']",0.9996129026638207
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'link', 'bch', 'eth', 'ltc']",0.9994194419427586
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'link', 'ltc']",0.9996001053474187
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'link', 'eth', 'bch', 'ltc']",0.9994187674075702
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'dot', 'link', 'eth', 'ltc']",0.9994059878743624
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'dot', 'ltc']",0.9996226066797713
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'dot', 'eth', 'ltc']",0.9994304199675758
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'dot', 'eth', 'link', 'ltc']",0.9994244566980236
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'dot', 'link', 'ltc']",0.9996169115301449
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'dot', 'link', 'eth', 'ltc']",0.9994227907934095
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'ltc']",0.9996082165853529
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'eth', 'dot', 'ltc']",0.9994308828397763
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'eth', 'dot', 'link', 'ltc']",0.9994251887824578
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'eth', 'ltc']",0.9994147567712138
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'eth', 'link', 'dot', 'ltc']",0.999425753786747
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'eth', 'link', 'ltc']",0.9994087935951186
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'link', 'dot', 'ltc']",0.9996196786545324
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'link', 'dot', 'eth', 'ltc']",0.9994274925052766
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'link', 'ltc']",0.9996027151720114
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'link', 'eth', 'dot', 'ltc']",0.9994247231613144
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'bch', 'link', 'eth', 'ltc']",0.9994085971921397
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'ltc']",0.9995952250152894
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'dot', 'bch', 'ltc']",0.999429836246832
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'dot', 'bch', 'link', 'ltc']",0.9994243358152193
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'dot', 'ltc']",0.9994173340901705
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'dot', 'link', 'bch', 'ltc']",0.9994244350136315
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'dot', 'link', 'ltc']",0.9994116401100435
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'bch', 'dot', 'ltc']",0.9994283750106618
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'bch', 'dot', 'link', 'ltc']",0.9994226809676313
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'bch', 'ltc']",0.9994139877123107
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'bch', 'link', 'dot', 'ltc']",0.9994254475543528
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'bch', 'link', 'ltc']",0.9994084873679212
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'ltc']",0.9994012082402205
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'link', 'dot', 'bch', 'ltc']",0.999424707199174
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'link', 'dot', 'ltc']",0.9994122051066732
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'link', 'bch', 'dot', 'ltc']",0.9994224270513845
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'link', 'bch', 'ltc']",0.9994080398386574
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'eth', 'link', 'ltc']",0.999395245144965
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'dot', 'bch', 'ltc']",0.9995778111910774
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'dot', 'bch', 'eth', 'ltc']",0.9993843572614657
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'dot', 'ltc']",0.9995653071833543
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'dot', 'eth', 'bch', 'ltc']",0.9993859106005869
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'dot', 'eth', 'ltc']",0.999373131487518
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'bch', 'dot', 'ltc']",0.9995755306939871
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'bch', 'dot', 'eth', 'ltc']",0.9993833530325862
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'bch', 'ltc']",0.9995611412772524
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'bch', 'eth', 'dot', 'ltc']",0.9993838158829883
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'bch', 'eth', 'ltc']",0.9993676905738631
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'ltc']",0.9995483446235137
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'eth', 'dot', 'bch', 'ltc']",0.9993828638632566
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'eth', 'dot', 'ltc']",0.9993703622941861
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'eth', 'bch', 'dot', 'ltc']",0.9993814026957631
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'eth', 'bch', 'ltc']",0.9993670160736032
+"['ltc', 'dot', 'bch', 'eth', 'btc']","['btc', 'link', 'eth', 'ltc']",0.9993542372021379
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'bch', 'ltc']",0.9995778111910774
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'bch', 'eth', 'ltc']",0.9993843572614658
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'bch', 'eth', 'btc', 'ltc']",0.9991777984687743
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'bch', 'btc', 'ltc']",0.9993717397974108
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'bch', 'btc', 'eth', 'ltc']",0.9991777663997814
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'ltc']",0.9995653071833545
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'bch', 'ltc']",0.999385910600587
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'bch', 'btc', 'ltc']",0.9991798787688452
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'ltc']",0.999373131487518
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'btc', 'bch', 'ltc']",0.9991795610140093
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'eth', 'btc', 'ltc']",0.9991665750150375
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'bch', 'ltc']",0.9994582905951912
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'bch', 'eth', 'ltc']",0.9992648597970742
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'ltc']",0.999445300973665
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'eth', 'bch', 'ltc']",0.9992640908535181
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'dot', 'btc', 'eth', 'ltc']",0.999251313298154
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'dot', 'ltc']",0.9995755306939873
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'dot', 'eth', 'ltc']",0.9993833530325863
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'dot', 'eth', 'btc', 'ltc']",0.999176794447455
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'dot', 'btc', 'ltc']",0.9994555232568797
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'dot', 'btc', 'eth', 'ltc']",0.9992615335972712
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'ltc']",0.9995611412772525
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'dot', 'ltc']",0.9993838158829885
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'dot', 'btc', 'ltc']",0.9992638314628539
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'ltc']",0.9993676905738633
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'btc', 'dot', 'ltc']",0.9991717060194231
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'eth', 'btc', 'ltc']",0.9991611352259434
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'dot', 'ltc']",0.9993656461655096
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'dot', 'eth', 'ltc']",0.9991735088563546
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'ltc']",0.9993550733202292
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'eth', 'dot', 'ltc']",0.999177225133217
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'bch', 'btc', 'eth', 'ltc']",0.9991611031574853
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'ltc']",0.9995483446235138
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'bch', 'ltc']",0.9993828638632567
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'bch', 'btc', 'ltc']",0.9991768326596254
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'ltc']",0.9993703622941862
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'btc', 'bch', 'ltc']",0.9992633665774324
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'dot', 'btc', 'ltc']",0.999250379489268
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'dot', 'ltc']",0.999381402695763
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'dot', 'btc', 'ltc']",0.9992614185653519
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'ltc']",0.9993670160736031
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'btc', 'dot', 'ltc']",0.9991715589290509
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'bch', 'btc', 'ltc']",0.9991609881371275
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'ltc']",0.9993542372021379
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'dot', 'bch', 'ltc']",0.9991707542017485
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'dot', 'ltc']",0.999158255286019
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'bch', 'dot', 'ltc']",0.9991750540399612
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'bch', 'ltc']",0.999160670388299
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'eth', 'btc', 'ltc']",0.9991476846348423
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'bch', 'ltc']",0.9993514068281532
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'bch', 'eth', 'ltc']",0.9991579967158543
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'ltc']",0.9993389056525879
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'eth', 'bch', 'ltc']",0.9991595497031444
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'dot', 'eth', 'ltc']",0.9991467734845444
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'dot', 'ltc']",0.9993557074437878
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'dot', 'eth', 'ltc']",0.9991635720454441
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'ltc']",0.9993413211915246
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'eth', 'dot', 'ltc']",0.9991640347940582
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'bch', 'eth', 'ltc']",0.9991479130311559
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'ltc']",0.9993283330902103
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'dot', 'bch', 'ltc']",0.9991629884805543
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'dot', 'ltc']",0.9991504896619685
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'bch', 'dot', 'ltc']",0.9991615276345338
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'bch', 'ltc']",0.9991471441775913
+"['ltc', 'dot', 'bch', 'eth', 'btc', 'link']","['link', 'btc', 'eth', 'ltc']",0.9991343681176205
+"['eth', 'dot']","['dot', 'bch', 'ltc', 'eth']",0.9998007790741036
+"['eth', 'dot']","['dot', 'bch', 'ltc', 'btc', 'eth']",0.9995918362932695
+"['eth', 'dot']","['dot', 'bch', 'ltc', 'btc', 'link', 'eth']",0.9995448562958243
+"['eth', 'dot']","['dot', 'bch', 'ltc', 'link', 'eth']",0.9997946300344864
+"['eth', 'dot']","['dot', 'bch', 'ltc', 'link', 'btc', 'eth']",0.9995746640586314
+"['eth', 'dot']","['dot', 'bch', 'eth']",0.9998351039770453
+"['eth', 'dot']","['dot', 'bch', 'btc', 'ltc', 'eth']",0.999594661713728
+"['eth', 'dot']","['dot', 'bch', 'btc', 'ltc', 'link', 'eth']",0.9995885139417873
+"['eth', 'dot']","['dot', 'bch', 'btc', 'eth']",0.9996284199378447
+"['eth', 'dot']","['dot', 'bch', 'btc', 'link', 'ltc', 'eth']",0.9995477813483705
+"['eth', 'dot']","['dot', 'bch', 'btc', 'link', 'eth']",0.9995814382209982
+"['eth', 'dot']","['dot', 'bch', 'link', 'ltc', 'eth']",0.9997952766009809
+"['eth', 'dot']","['dot', 'bch', 'link', 'ltc', 'btc', 'eth']",0.9995863349700783
+"['eth', 'dot']","['dot', 'bch', 'link', 'eth']",0.9998289418072933
+"['eth', 'dot']","['dot', 'bch', 'link', 'btc', 'ltc', 'eth']",0.9995752107152459
+"['eth', 'dot']","['dot', 'bch', 'link', 'btc', 'eth']",0.9996089682824654
+"['eth', 'dot']","['dot', 'ltc', 'bch', 'eth']",0.9998012028089508
+"['eth', 'dot']","['dot', 'ltc', 'bch', 'btc', 'eth']",0.9995945257777359
+"['eth', 'dot']","['dot', 'ltc', 'bch', 'btc', 'link', 'eth']",0.9995475456538873
+"['eth', 'dot']","['dot', 'ltc', 'bch', 'link', 'eth']",0.9997950408481381
+"['eth', 'dot']","['dot', 'ltc', 'bch', 'link', 'btc', 'eth']",0.9995750747818993
+"['eth', 'dot']","['dot', 'ltc', 'eth']",0.9997882722772109
+"['eth', 'dot']","['dot', 'ltc', 'btc', 'bch', 'eth']",0.9995928830558585
+"['eth', 'dot']","['dot', 'ltc', 'btc', 'bch', 'link', 'eth']",0.999586722378959
+"['eth', 'dot']","['dot', 'ltc', 'btc', 'eth']",0.9995793321101025
+"['eth', 'dot']","['dot', 'ltc', 'btc', 'link', 'bch', 'eth']",0.9995458084698715
+"['eth', 'dot']","['dot', 'ltc', 'btc', 'link', 'eth']",0.9995323527003438
+"['eth', 'dot']","['dot', 'ltc', 'link', 'bch', 'eth']",0.9997955824464699
+"['eth', 'dot']","['dot', 'ltc', 'link', 'bch', 'btc', 'eth']",0.9995889065770859
+"['eth', 'dot']","['dot', 'ltc', 'link', 'eth']",0.9997821233145141
+"['eth', 'dot']","['dot', 'ltc', 'link', 'btc', 'bch', 'eth']",0.9995757108032378
+"['eth', 'dot']","['dot', 'ltc', 'link', 'btc', 'eth']",0.999562160090277
+"['eth', 'dot']","['dot', 'eth']",0.99982387314
+"['eth', 'dot']","['dot', 'btc', 'bch', 'ltc', 'eth']",0.9996812318177073
+"['eth', 'dot']","['dot', 'btc', 'bch', 'ltc', 'link', 'eth']",0.9996750835133378
+"['eth', 'dot']","['dot', 'btc', 'bch', 'eth']",0.9997155526163835
+"['eth', 'dot']","['dot', 'btc', 'bch', 'link', 'ltc', 'eth']",0.9996757300025213
+"['eth', 'dot']","['dot', 'btc', 'bch', 'link', 'eth']",0.9997093911834487
+"['eth', 'dot']","['dot', 'btc', 'ltc', 'bch', 'eth']",0.9996811682780106
+"['eth', 'dot']","['dot', 'btc', 'ltc', 'bch', 'link', 'eth']",0.9996750070569929
+"['eth', 'dot']","['dot', 'btc', 'ltc', 'eth']",0.9996682392986895
+"['eth', 'dot']","['dot', 'btc', 'ltc', 'link', 'bch', 'eth']",0.9996755485903015
+"['eth', 'dot']","['dot', 'btc', 'ltc', 'link', 'eth']",0.9996620910742274
+"['eth', 'dot']","['dot', 'btc', 'eth']",0.999702000007662
+"['eth', 'dot']","['dot', 'btc', 'link', 'bch', 'ltc', 'eth']",0.9996341530710452
+"['eth', 'dot']","['dot', 'btc', 'link', 'bch', 'eth']",0.9996684722534258
+"['eth', 'dot']","['dot', 'btc', 'link', 'ltc', 'bch', 'eth']",0.9996342838555494
+"['eth', 'dot']","['dot', 'btc', 'link', 'ltc', 'eth']",0.9996213554825896
+"['eth', 'dot']","['dot', 'btc', 'link', 'eth']",0.9996550148326127
+"['eth', 'dot']","['dot', 'link', 'bch', 'ltc', 'eth']",0.999795375836211
+"['eth', 'dot']","['dot', 'link', 'bch', 'ltc', 'btc', 'eth']",0.9995864341845695
+"['eth', 'dot']","['dot', 'link', 'bch', 'eth']",0.9998297005536504
+"['eth', 'dot']","['dot', 'link', 'bch', 'btc', 'ltc', 'eth']",0.9995892595897584
+"['eth', 'dot']","['dot', 'link', 'bch', 'btc', 'eth']",0.9996230176314351
+"['eth', 'dot']","['dot', 'link', 'ltc', 'bch', 'eth']",0.9997955066418086
+"['eth', 'dot']","['dot', 'link', 'ltc', 'bch', 'btc', 'eth']",0.9995888307880949
+"['eth', 'dot']","['dot', 'link', 'ltc', 'eth']",0.9997825761837379
+"['eth', 'dot']","['dot', 'link', 'ltc', 'btc', 'bch', 'eth']",0.9995871880755763
+"['eth', 'dot']","['dot', 'link', 'ltc', 'btc', 'eth']",0.9995736372070243
+"['eth', 'dot']","['dot', 'link', 'eth']",0.9998162409624004
+"['eth', 'dot']","['dot', 'link', 'btc', 'bch', 'ltc', 'eth']",0.9995755042384159
+"['eth', 'dot']","['dot', 'link', 'btc', 'bch', 'eth']",0.99960982140728
+"['eth', 'dot']","['dot', 'link', 'btc', 'ltc', 'bch', 'eth']",0.9995754407054391
+"['eth', 'dot']","['dot', 'link', 'btc', 'ltc', 'eth']",0.9995625130935037
+"['eth', 'dot']","['dot', 'link', 'btc', 'eth']",0.9995962702319
+"['eth', 'dot', 'bch']","['bch', 'dot', 'ltc', 'eth']",0.9998151719406003
+"['eth', 'dot', 'bch']","['bch', 'dot', 'ltc', 'btc', 'eth']",0.9996062261518817
+"['eth', 'dot', 'bch']","['bch', 'dot', 'ltc', 'btc', 'link', 'eth']",0.9995592454781251
+"['eth', 'dot', 'bch']","['bch', 'dot', 'ltc', 'link', 'eth']",0.9998090228124635
+"['eth', 'dot', 'bch']","['bch', 'dot', 'ltc', 'link', 'btc', 'eth']",0.9995890536700365
+"['eth', 'dot', 'bch']","['bch', 'dot', 'eth']",0.9998507737612435
+"['eth', 'dot', 'bch']","['bch', 'dot', 'btc', 'ltc', 'eth']",0.9996951357325486
+"['eth', 'dot', 'bch']","['bch', 'dot', 'btc', 'ltc', 'link', 'eth']",0.9996889873426662
+"['eth', 'dot', 'bch']","['bch', 'dot', 'btc', 'eth']",0.9997288973498653
+"['eth', 'dot', 'bch']","['bch', 'dot', 'btc', 'link', 'ltc', 'eth']",0.9996482506550226
+"['eth', 'dot', 'bch']","['bch', 'dot', 'btc', 'link', 'eth']",0.9996819109106627
+"['eth', 'dot', 'bch']","['bch', 'dot', 'link', 'ltc', 'eth']",0.9998094756938718
+"['eth', 'dot', 'bch']","['bch', 'dot', 'link', 'ltc', 'btc', 'eth']",0.99960053109558
+"['eth', 'dot', 'bch']","['bch', 'dot', 'link', 'eth']",0.9998431413782973
+"['eth', 'dot', 'bch']","['bch', 'dot', 'link', 'btc', 'ltc', 'eth']",0.9995894066827611
+"['eth', 'dot', 'bch']","['bch', 'dot', 'link', 'btc', 'eth']",0.9996231647294054
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'dot', 'eth']",0.9998192788002521
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'dot', 'btc', 'eth']",0.9996974062279395
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'dot', 'btc', 'link', 'eth']",0.9996504212687939
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'dot', 'link', 'eth']",0.9998116466577236
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'dot', 'link', 'btc', 'eth']",0.9995916769380215
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'eth']",0.9998007790741036
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'btc', 'dot', 'eth']",0.9996042473401711
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'btc', 'dot', 'link', 'eth']",0.9995966168390897
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'btc', 'eth']",0.9995918362932696
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'btc', 'link', 'dot', 'eth']",0.9995637541851434
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'btc', 'link', 'eth']",0.9995448562958246
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'link', 'dot', 'eth']",0.9998135326461511
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'link', 'dot', 'btc', 'eth']",0.9996916607742636
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'link', 'eth']",0.9997946300344864
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'link', 'btc', 'dot', 'eth']",0.9995870748923203
+"['eth', 'dot', 'bch']","['bch', 'ltc', 'link', 'btc', 'eth']",0.9995746640586314
+"['eth', 'dot', 'bch']","['bch', 'eth']",0.9998351039770454
+"['eth', 'dot', 'bch']","['bch', 'btc', 'dot', 'ltc', 'eth']",0.9996052370937741
+"['eth', 'dot', 'bch']","['bch', 'btc', 'dot', 'ltc', 'link', 'eth']",0.9995990892567923
+"['eth', 'dot', 'bch']","['bch', 'btc', 'dot', 'eth']",0.9996408314389729
+"['eth', 'dot', 'bch']","['bch', 'btc', 'dot', 'link', 'ltc', 'eth']",0.9995995420431074
+"['eth', 'dot', 'bch']","['bch', 'btc', 'dot', 'link', 'eth']",0.9996332006586262
+"['eth', 'dot', 'bch']","['bch', 'btc', 'ltc', 'dot', 'eth']",0.9996131576260018
+"['eth', 'dot', 'bch']","['bch', 'btc', 'ltc', 'dot', 'link', 'eth']",0.9996055270569038
+"['eth', 'dot', 'bch']","['bch', 'btc', 'ltc', 'eth']",0.9995946617137279
+"['eth', 'dot', 'bch']","['bch', 'btc', 'ltc', 'link', 'dot', 'eth']",0.9996074126565195
+"['eth', 'dot', 'bch']","['bch', 'btc', 'ltc', 'link', 'eth']",0.9995885139417874
+"['eth', 'dot', 'bch']","['bch', 'btc', 'eth']",0.9996284199378446
+"['eth', 'dot', 'bch']","['bch', 'btc', 'link', 'dot', 'ltc', 'eth']",0.9995647438986526
+"['eth', 'dot', 'bch']","['bch', 'btc', 'link', 'dot', 'eth']",0.9996003368019533
+"['eth', 'dot', 'bch']","['bch', 'btc', 'link', 'ltc', 'dot', 'eth']",0.9995662763931982
+"['eth', 'dot', 'bch']","['bch', 'btc', 'link', 'ltc', 'eth']",0.999547781348371
+"['eth', 'dot', 'bch']","['bch', 'btc', 'link', 'eth']",0.9995814382209983
+"['eth', 'dot', 'bch']","['bch', 'link', 'dot', 'ltc', 'eth']",0.9998122433513129
+"['eth', 'dot', 'bch']","['bch', 'link', 'dot', 'ltc', 'btc', 'eth']",0.9996032981746235
+"['eth', 'dot', 'bch']","['bch', 'link', 'dot', 'eth']",0.9998478450676737
+"['eth', 'dot', 'bch']","['bch', 'link', 'dot', 'btc', 'ltc', 'eth']",0.9996922074948627
+"['eth', 'dot', 'bch']","['bch', 'link', 'dot', 'btc', 'eth']",0.999725969013287
+"['eth', 'dot', 'bch']","['bch', 'link', 'ltc', 'dot', 'eth']",0.999813776225315
+"['eth', 'dot', 'bch']","['bch', 'link', 'ltc', 'dot', 'btc', 'eth']",0.9996919043237362
+"['eth', 'dot', 'bch']","['bch', 'link', 'ltc', 'eth']",0.999795276600981
+"['eth', 'dot', 'bch']","['bch', 'link', 'ltc', 'btc', 'dot', 'eth']",0.9995987459486745
+"['eth', 'dot', 'bch']","['bch', 'link', 'ltc', 'btc', 'eth']",0.9995863349700782
+"['eth', 'dot', 'bch']","['bch', 'link', 'eth']",0.9998289418072935
+"['eth', 'dot', 'bch']","['bch', 'link', 'btc', 'dot', 'ltc', 'eth']",0.9995857858895071
+"['eth', 'dot', 'bch']","['bch', 'link', 'btc', 'dot', 'eth']",0.9996213795420795
+"['eth', 'dot', 'bch']","['bch', 'link', 'btc', 'ltc', 'dot', 'eth']",0.9995937062676101
+"['eth', 'dot', 'bch']","['bch', 'link', 'btc', 'ltc', 'eth']",0.9995752107152461
+"['eth', 'dot', 'bch']","['bch', 'link', 'btc', 'eth']",0.9996089682824654
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'eth']",0.99983050958569
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'btc', 'eth']",0.9996238264962333
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'btc', 'link', 'eth']",0.9995768449952748
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'link', 'eth']",0.9998243474442541
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'link', 'btc', 'eth']",0.999604374930237
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth']",0.999819278800252
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'bch', 'eth']",0.9997109587743844
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'bch', 'link', 'eth']",0.9997047973697624
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'eth']",0.9996974062279392
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'link', 'bch', 'eth']",0.9996638786277681
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'link', 'eth']",0.9996504212687937
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'bch', 'eth']",0.9998251061871245
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'bch', 'btc', 'eth']",0.9996184242146482
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'eth']",0.9998116466577234
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'btc', 'bch', 'eth']",0.9996052280511317
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'btc', 'eth']",0.9995916769380213
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'eth']",0.9998293792164974
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'btc', 'eth']",0.9997075054129985
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'btc', 'link', 'eth']",0.9996605199791997
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'link', 'eth']",0.9998217469968671
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'link', 'btc', 'eth']",0.9996017750549776
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth']",0.9998137097675973
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'dot', 'eth']",0.9996194413865175
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'dot', 'link', 'eth']",0.9996118107694522
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'eth']",0.9996070301509675
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'link', 'dot', 'eth']",0.9995789476159915
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'link', 'eth']",0.9995600494394234
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'dot', 'eth']",0.9998264505855948
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'dot', 'btc', 'eth']",0.99970457713908
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'eth']",0.9998075477297018
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'btc', 'dot', 'eth']",0.9995999899058507
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'btc', 'eth']",0.9995875789118096
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'eth']",0.9998007790741036
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'bch', 'eth']",0.9996154757102003
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'bch', 'link', 'eth']",0.9996093148940581
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'eth']",0.999604247340171
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'link', 'bch', 'eth']",0.9996100734737453
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'link', 'eth']",0.9995966168390897
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'dot', 'eth']",0.9996210535925358
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'dot', 'link', 'eth']",0.9996134229631637
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'eth']",0.9996053874085403
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'link', 'dot', 'eth']",0.999618125571846
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'link', 'eth']",0.9995992266545742
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'eth']",0.9995918362932695
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'dot', 'bch', 'eth']",0.9995749821003207
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'dot', 'eth']",0.9995637541851435
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'bch', 'dot', 'eth']",0.9995739776798925
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'bch', 'eth']",0.9995583122336765
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'link', 'eth']",0.9995448562958246
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'bch', 'eth']",0.9998247633670441
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'bch', 'btc', 'eth']",0.9996180814654347
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'eth']",0.9998135326461515
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'btc', 'bch', 'eth']",0.9997052132428199
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'btc', 'eth']",0.9996916607742637
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'dot', 'eth']",0.9998237586956236
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'dot', 'btc', 'eth']",0.9997018855772358
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'eth']",0.9998080893348088
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'btc', 'dot', 'eth']",0.999613822045805
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'btc', 'eth']",0.9996014108800244
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'eth']",0.9997946300344867
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'dot', 'bch', 'eth']",0.9995983030694549
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'dot', 'eth']",0.9995870748923205
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'bch', 'dot', 'eth']",0.9996038808559665
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'bch', 'eth']",0.9995882149411044
+"['eth', 'dot', 'bch', 'ltc']","['ltc', 'link', 'btc', 'eth']",0.9995746640586315
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'bch', 'ltc', 'eth']",0.9995811583472207
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'bch', 'ltc', 'link', 'eth']",0.9995750106583293
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'bch', 'eth']",0.9996154757102003
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'bch', 'link', 'ltc', 'eth']",0.999575657082796
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'bch', 'link', 'eth']",0.9996093148940581
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'ltc', 'bch', 'eth']",0.9995815819889883
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'ltc', 'bch', 'link', 'eth']",0.9995754213817394
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'ltc', 'eth']",0.9995686542976271
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'ltc', 'link', 'bch', 'eth']",0.9995759628611014
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'ltc', 'link', 'eth']",0.999562506685639
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'eth']",0.999604247340171
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'link', 'bch', 'ltc', 'eth']",0.9995757562962274
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'link', 'bch', 'eth']",0.9996100734737453
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'link', 'ltc', 'bch', 'eth']",0.9995758870730919
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'link', 'ltc', 'eth']",0.9995629594553833
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'dot', 'link', 'eth']",0.9995966168390896
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'dot', 'ltc', 'eth']",0.9995854599515694
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'dot', 'ltc', 'link', 'eth']",0.9995793122362223
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'dot', 'eth']",0.9996210535925358
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'dot', 'link', 'ltc', 'eth']",0.9995797650135791
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'dot', 'link', 'eth']",0.9996134229631637
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'ltc', 'dot', 'eth']",0.9995895658676517
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'ltc', 'dot', 'link', 'eth']",0.9995819354786419
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'ltc', 'eth']",0.9995710703918977
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'ltc', 'link', 'dot', 'eth']",0.9995838210337556
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'ltc', 'link', 'eth']",0.99956492276505
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'eth']",0.9996053874085402
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'link', 'dot', 'ltc', 'eth']",0.9995825320351382
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'link', 'dot', 'eth']",0.9996181255718459
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'link', 'ltc', 'dot', 'eth']",0.9995840645569558
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'link', 'ltc', 'eth']",0.999565569182993
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'bch', 'link', 'eth']",0.9995992266545742
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'dot', 'bch', 'eth']",0.9995878025991711
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'dot', 'bch', 'link', 'eth']",0.9995816419535836
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'dot', 'eth']",0.9995765745399853
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'dot', 'link', 'bch', 'eth']",0.9995824005122704
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'dot', 'link', 'eth']",0.999568944250145
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'bch', 'dot', 'eth']",0.9995866725043738
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'bch', 'dot', 'link', 'eth']",0.9995790421374504
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'bch', 'eth']",0.999571006859203
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'bch', 'link', 'dot', 'eth']",0.999583744584391
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'bch', 'link', 'eth']",0.9995648463171307
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'eth']",0.9995580793046108
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'link', 'dot', 'bch', 'eth']",0.9995820577754089
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'link', 'dot', 'eth']",0.9995708297807528
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'link', 'bch', 'dot', 'eth']",0.9995810533478707
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'link', 'bch', 'eth']",0.9995653877907641
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'ltc', 'link', 'eth']",0.9995519317576619
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'eth']",0.9995918362932696
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'dot', 'bch', 'ltc', 'eth']",0.9995406661275096
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'dot', 'bch', 'eth']",0.9995749821003207
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'dot', 'ltc', 'bch', 'eth']",0.999541089752116
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'dot', 'ltc', 'eth']",0.9995281625844449
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'dot', 'eth']",0.9995637541851435
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'bch', 'dot', 'ltc', 'eth']",0.9995383857151644
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'bch', 'dot', 'eth']",0.9995739776798924
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'bch', 'ltc', 'dot', 'eth']",0.9995424914378837
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'bch', 'ltc', 'eth']",0.9995239968331512
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'bch', 'eth']",0.9995583122336764
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'ltc', 'dot', 'bch', 'eth']",0.9995409225555021
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'ltc', 'dot', 'eth']",0.9995296950229053
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'ltc', 'bch', 'dot', 'eth']",0.9995397925137055
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'ltc', 'bch', 'eth']",0.9995241276032437
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'ltc', 'eth']",0.9995112006549458
+"['eth', 'dot', 'bch', 'ltc', 'btc']","['btc', 'link', 'eth']",0.9995448562958246
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'bch', 'ltc', 'eth']",0.9995406661275095
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'bch', 'ltc', 'btc', 'eth']",0.9993317777062276
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'bch', 'eth']",0.9995749821003207
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'bch', 'btc', 'ltc', 'eth']",0.9993346023916109
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'bch', 'btc', 'eth']",0.9993683518330269
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'ltc', 'bch', 'eth']",0.9995410897521159
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'ltc', 'bch', 'btc', 'eth']",0.9993344664909847
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'ltc', 'eth']",0.9995281625844449
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'ltc', 'btc', 'bch', 'eth']",0.9993328241964856
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'ltc', 'btc', 'eth']",0.9993192767762086
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'eth']",0.9995637541851435
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'btc', 'bch', 'ltc', 'eth']",0.9994211499730986
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'btc', 'bch', 'eth']",0.9994554618427118
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'btc', 'ltc', 'bch', 'eth']",0.9994210864499324
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'btc', 'ltc', 'eth']",0.9994081608342765
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'dot', 'btc', 'eth']",0.9994419127599017
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'dot', 'ltc', 'eth']",0.9995383857151644
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'dot', 'ltc', 'btc', 'eth']",0.9993294977704531
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'dot', 'eth']",0.9995739776798924
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'dot', 'btc', 'ltc', 'eth']",0.9994183827376234
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'dot', 'btc', 'eth']",0.999452135008462
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'ltc', 'dot', 'eth']",0.9995424914378837
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'ltc', 'dot', 'btc', 'eth']",0.999420652604456
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'ltc', 'eth']",0.9995239968331511
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'ltc', 'btc', 'dot', 'eth']",0.9993275195065513
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'ltc', 'btc', 'eth']",0.9993151118954918
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'eth']",0.9995583122336764
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'btc', 'dot', 'ltc', 'eth']",0.9993285089861537
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'btc', 'dot', 'eth']",0.9993640934775065
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'btc', 'ltc', 'dot', 'eth']",0.999336427325682
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'btc', 'ltc', 'eth']",0.9993179365337682
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'bch', 'btc', 'eth']",0.9993516854123462
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'dot', 'bch', 'eth']",0.9995409225555021
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'dot', 'bch', 'btc', 'eth']",0.9993342993289336
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'dot', 'eth']",0.9995296950229052
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'dot', 'btc', 'bch', 'eth']",0.9994214063704296
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'dot', 'btc', 'eth']",0.9994078577492914
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'bch', 'dot', 'eth']",0.9995397925137054
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'bch', 'dot', 'btc', 'eth']",0.9994179540092619
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'bch', 'eth']",0.9995241276032436
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'bch', 'btc', 'dot', 'eth']",0.999329915489304
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'bch', 'btc', 'eth']",0.999317507848496
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'eth']",0.9995112006549457
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'btc', 'dot', 'bch', 'eth']",0.9993259509615898
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'btc', 'dot', 'eth']",0.9993147258437021
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'btc', 'bch', 'dot', 'eth']",0.9993315272283692
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'btc', 'bch', 'eth']",0.9993158655818666
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'ltc', 'btc', 'eth']",0.9993023183914883
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'eth']",0.9995448562958245
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'dot', 'bch', 'ltc', 'eth']",0.9993142701779417
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'dot', 'bch', 'eth']",0.9993485783781855
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'dot', 'ltc', 'bch', 'eth']",0.9993146937065972
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'dot', 'ltc', 'eth']",0.9993017694669295
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'dot', 'eth']",0.9993373530061309
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'bch', 'dot', 'ltc', 'eth']",0.9993185706337622
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'bch', 'dot', 'eth']",0.9993541547712264
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'bch', 'ltc', 'dot', 'eth']",0.9993226754535651
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'bch', 'ltc', 'eth']",0.999304184916103
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'bch', 'eth']",0.9993384927701021
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'ltc', 'dot', 'bch', 'eth']",0.999320912655877
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'ltc', 'dot', 'eth']",0.9993096875945829
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'ltc', 'bch', 'dot', 'eth']",0.999319782862815
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'ltc', 'bch', 'eth']",0.9993041214003714
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'ltc', 'eth']",0.9992911972974363
+"['eth', 'dot', 'bch', 'ltc', 'btc', 'link']","['link', 'btc', 'eth']",0.9993249452729792
+"['btc', 'dot']","['dot', 'bch', 'ltc', 'eth', 'btc']",0.9995885807140023
+"['btc', 'dot']","['dot', 'bch', 'ltc', 'eth', 'link', 'btc']",0.9995691944197898
+"['btc', 'dot']","['dot', 'bch', 'ltc', 'btc']",0.9997803355113543
+"['btc', 'dot']","['dot', 'bch', 'ltc', 'link', 'eth', 'btc']",0.9995824329794611
+"['btc', 'dot']","['dot', 'bch', 'ltc', 'link', 'btc']",0.9997631600384413
+"['btc', 'dot']","['dot', 'bch', 'eth', 'ltc', 'btc']",0.999586842386069
+"['btc', 'dot']","['dot', 'bch', 'eth', 'ltc', 'link', 'btc']",0.9995696702372224
+"['btc', 'dot']","['dot', 'bch', 'eth', 'btc']",0.9996228983318045
+"['btc', 'dot']","['dot', 'bch', 'eth', 'link', 'ltc', 'btc']",0.9995808781831961
+"['btc', 'dot']","['dot', 'bch', 'eth', 'link', 'btc']",0.9996035113720269
+"['btc', 'dot']","['dot', 'bch', 'btc']",0.9998169260547335
+"['btc', 'dot']","['dot', 'bch', 'link', 'ltc', 'eth', 'btc']",0.9995830794087279
+"['btc', 'dot']","['dot', 'bch', 'link', 'ltc', 'btc']",0.9997748331507442
+"['btc', 'dot']","['dot', 'bch', 'link', 'eth', 'ltc', 'btc']",0.9995806817463994
+"['btc', 'dot']","['dot', 'bch', 'link', 'eth', 'btc']",0.9996167374699154
+"['btc', 'dot']","['dot', 'bch', 'link', 'btc']",0.9997974707312351
+"['btc', 'dot']","['dot', 'ltc', 'bch', 'eth', 'btc']",0.9995890043589156
+"['btc', 'dot']","['dot', 'ltc', 'bch', 'eth', 'link', 'btc']",0.999569618056487
+"['btc', 'dot']","['dot', 'ltc', 'bch', 'btc']",0.9997830255029934
+"['btc', 'dot']","['dot', 'ltc', 'bch', 'link', 'eth', 'btc']",0.9995828437059214
+"['btc', 'dot']","['dot', 'ltc', 'bch', 'link', 'btc']",0.999763570839162
+"['btc', 'dot']","['dot', 'ltc', 'eth', 'bch', 'btc']",0.9995893857778201
+"['btc', 'dot']","['dot', 'ltc', 'eth', 'bch', 'link', 'btc']",0.9995699348820021
+"['btc', 'dot']","['dot', 'ltc', 'eth', 'btc']",0.99957607657156
+"['btc', 'dot']","['dot', 'ltc', 'eth', 'link', 'bch', 'btc']",0.9995834368603097
+"['btc', 'dot']","['dot', 'ltc', 'eth', 'link', 'btc']",0.9995566905198565
+"['btc', 'dot']","['dot', 'ltc', 'btc']",0.999767828970196
+"['btc', 'dot']","['dot', 'ltc', 'link', 'bch', 'eth', 'btc']",0.9995833851893041
+"['btc', 'dot']","['dot', 'ltc', 'link', 'bch', 'btc']",0.9997774052426959
+"['btc', 'dot']","['dot', 'ltc', 'link', 'eth', 'bch', 'btc']",0.9995832380383278
+"['btc', 'dot']","['dot', 'ltc', 'link', 'eth', 'btc']",0.999569928913923
+"['btc', 'dot']","['dot', 'ltc', 'link', 'btc']",0.9997506537121363
+"['btc', 'dot']","['dot', 'eth', 'bch', 'ltc', 'btc']",0.9995883960399122
+"['btc', 'dot']","['dot', 'eth', 'bch', 'ltc', 'link', 'btc']",0.9995712238643749
+"['btc', 'dot']","['dot', 'eth', 'bch', 'btc']",0.9996249795585789
+"['btc', 'dot']","['dot', 'eth', 'bch', 'link', 'ltc', 'btc']",0.9995828947356544
+"['btc', 'dot']","['dot', 'eth', 'bch', 'link', 'btc']",0.9996055279701455
+"['btc', 'dot']","['dot', 'eth', 'ltc', 'bch', 'btc']",0.999590807948792
+"['btc', 'dot']","['dot', 'eth', 'ltc', 'bch', 'link', 'btc']",0.9995713570253001
+"['btc', 'dot']","['dot', 'eth', 'ltc', 'btc']",0.9995756143376688
+"['btc', 'dot']","['dot', 'eth', 'ltc', 'link', 'bch', 'btc']",0.9995851887690416
+"['btc', 'dot']","['dot', 'eth', 'ltc', 'link', 'btc']",0.9995584423817117
+"['btc', 'dot']","['dot', 'eth', 'btc']",0.9996116698783992
+"['btc', 'dot']","['dot', 'eth', 'link', 'bch', 'ltc', 'btc']",0.9995824471282921
+"['btc', 'dot']","['dot', 'eth', 'link', 'bch', 'btc']",0.999619030429237
+"['btc', 'dot']","['dot', 'eth', 'link', 'ltc', 'bch', 'btc']",0.999584843722258
+"['btc', 'dot']","['dot', 'eth', 'link', 'ltc', 'btc']",0.9995696502017901
+"['btc', 'dot']","['dot', 'eth', 'link', 'btc']",0.9995922831363894
+"['btc', 'dot']","['dot', 'btc']",0.99989052
+"['btc', 'dot']","['dot', 'link', 'bch', 'ltc', 'eth', 'btc']",0.9995831786228964
+"['btc', 'dot']","['dot', 'link', 'bch', 'ltc', 'btc']",0.9997749323839451
+"['btc', 'dot']","['dot', 'link', 'bch', 'eth', 'ltc', 'btc']",0.9995814403043577
+"['btc', 'dot']","['dot', 'link', 'bch', 'eth', 'btc']",0.9996174960552356
+"['btc', 'dot']","['dot', 'link', 'bch', 'btc']",0.9998115227295776
+"['btc', 'dot']","['dot', 'link', 'ltc', 'bch', 'eth', 'btc']",0.9995833094007316
+"['btc', 'dot']","['dot', 'link', 'ltc', 'bch', 'btc']",0.9997773294394128
+"['btc', 'dot']","['dot', 'link', 'ltc', 'eth', 'bch', 'btc']",0.9995836908174632
+"['btc', 'dot']","['dot', 'link', 'ltc', 'eth', 'btc']",0.9995703816870296
+"['btc', 'dot']","['dot', 'link', 'ltc', 'btc']",0.9997621329931947
+"['btc', 'dot']","['dot', 'link', 'eth', 'bch', 'ltc', 'btc']",0.9995807656598321
+"['btc', 'dot']","['dot', 'link', 'eth', 'bch', 'btc']",0.9996173488992377
+"['btc', 'dot']","['dot', 'link', 'eth', 'ltc', 'bch', 'btc']",0.9995831775503008
+"['btc', 'dot']","['dot', 'link', 'eth', 'ltc', 'btc']",0.9995679840551583
+"['btc', 'dot']","['dot', 'link', 'eth', 'btc']",0.9996040393206579
+"['btc', 'dot']","['dot', 'link', 'btc']",0.9997847702861199
+"['btc', 'dot', 'bch']","['bch', 'dot', 'ltc', 'eth', 'btc']",0.9996029705257478
+"['btc', 'dot', 'bch']","['bch', 'dot', 'ltc', 'eth', 'link', 'btc']",0.9995835839524554
+"['btc', 'dot', 'bch']","['bch', 'dot', 'ltc', 'btc']",0.999794728083551
+"['btc', 'dot', 'bch']","['bch', 'dot', 'ltc', 'link', 'eth', 'btc']",0.9995968227027059
+"['btc', 'dot', 'bch']","['bch', 'dot', 'ltc', 'link', 'btc']",0.9997775523633847
+"['btc', 'dot', 'bch']","['bch', 'dot', 'eth', 'ltc', 'btc']",0.99960250827942
+"['btc', 'dot', 'bch']","['bch', 'dot', 'eth', 'ltc', 'link', 'btc']",0.999585335861445
+"['btc', 'dot', 'bch']","['bch', 'dot', 'eth', 'btc']",0.9996385647902376
+"['btc', 'dot', 'bch']","['bch', 'dot', 'eth', 'link', 'ltc', 'btc']",0.999596543983074
+"['btc', 'dot', 'bch']","['bch', 'dot', 'eth', 'link', 'btc']",0.9996191775266204
+"['btc', 'dot', 'bch']","['bch', 'dot', 'btc']",0.9999174224144014
+"['btc', 'dot', 'bch']","['bch', 'dot', 'link', 'ltc', 'eth', 'btc']",0.9995972754879942
+"['btc', 'dot', 'bch']","['bch', 'dot', 'link', 'ltc', 'btc']",0.9997890319532973
+"['btc', 'dot', 'bch']","['bch', 'dot', 'link', 'eth', 'ltc', 'btc']",0.9995948777916138
+"['btc', 'dot', 'bch']","['bch', 'dot', 'link', 'eth', 'btc']",0.9996309340271933
+"['btc', 'dot', 'bch']","['bch', 'dot', 'link', 'btc']",0.999811669855287
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'dot', 'eth', 'btc']",0.999607076513757
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'dot', 'eth', 'link', 'btc']",0.9995876898608321
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'dot', 'btc']",0.9998859253539999
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'dot', 'link', 'eth', 'btc']",0.9995994459910793
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'dot', 'link', 'btc']",0.9997801761260555
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'eth', 'dot', 'btc']",0.9996913208848106
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'eth', 'dot', 'link', 'btc']",0.9995855922384864
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'eth', 'btc']",0.9995885807140023
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'eth', 'link', 'dot', 'btc']",0.9996861904952201
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'eth', 'link', 'btc']",0.99956919441979
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'btc']",0.9997803355113543
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'link', 'dot', 'eth', 'btc']",0.9996013315792235
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'link', 'dot', 'btc']",0.9998801788168684
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'link', 'eth', 'dot', 'btc']",0.9996851725183904
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'link', 'eth', 'btc']",0.9995824329794613
+"['btc', 'dot', 'bch']","['bch', 'ltc', 'link', 'btc']",0.9997631600384416
+"['btc', 'dot', 'bch']","['bch', 'eth', 'dot', 'ltc', 'btc']",0.9996029712313209
+"['btc', 'dot', 'bch']","['bch', 'eth', 'dot', 'ltc', 'link', 'btc']",0.9995857988053929
+"['btc', 'dot', 'bch']","['bch', 'eth', 'dot', 'btc']",0.999725642029862
+"['btc', 'dot', 'bch']","['bch', 'eth', 'dot', 'link', 'ltc', 'btc']",0.9995972761935634
+"['btc', 'dot', 'bch']","['bch', 'eth', 'dot', 'link', 'btc']",0.9996199097536891
+"['btc', 'dot', 'bch']","['bch', 'eth', 'ltc', 'dot', 'btc']",0.9996924117933169
+"['btc', 'dot', 'bch']","['bch', 'eth', 'ltc', 'dot', 'link', 'btc']",0.9995866830316168
+"['btc', 'dot', 'bch']","['bch', 'eth', 'ltc', 'btc']",0.999586842386069
+"['btc', 'dot', 'bch']","['bch', 'eth', 'ltc', 'link', 'dot', 'btc']",0.9996866663683454
+"['btc', 'dot', 'bch']","['bch', 'eth', 'ltc', 'link', 'btc']",0.9995696702372224
+"['btc', 'dot', 'bch']","['bch', 'eth', 'btc']",0.9996228983318046
+"['btc', 'dot', 'bch']","['bch', 'eth', 'link', 'dot', 'ltc', 'btc']",0.9995978412951386
+"['btc', 'dot', 'bch']","['bch', 'eth', 'link', 'dot', 'btc']",0.9997205114641364
+"['btc', 'dot', 'bch']","['bch', 'eth', 'link', 'ltc', 'dot', 'btc']",0.9996864469605464
+"['btc', 'dot', 'bch']","['bch', 'eth', 'link', 'ltc', 'btc']",0.9995808781831961
+"['btc', 'dot', 'bch']","['bch', 'eth', 'link', 'btc']",0.999603511372027
+"['btc', 'dot', 'bch']","['bch', 'btc']",0.9998169260547336
+"['btc', 'dot', 'bch']","['bch', 'link', 'dot', 'ltc', 'eth', 'btc']",0.999600042558026
+"['btc', 'dot', 'bch']","['bch', 'link', 'dot', 'ltc', 'btc']",0.9997917995541461
+"['btc', 'dot', 'bch']","['bch', 'link', 'dot', 'eth', 'ltc', 'btc']",0.9995995803130521
+"['btc', 'dot', 'bch']","['bch', 'link', 'dot', 'eth', 'btc']",0.9996356367182555
+"['btc', 'dot', 'bch']","['bch', 'link', 'dot', 'btc']",0.9999144935256087
+"['btc', 'dot', 'bch']","['bch', 'link', 'ltc', 'dot', 'eth', 'btc']",0.9996015751066899
+"['btc', 'dot', 'bch']","['bch', 'link', 'ltc', 'dot', 'btc']",0.9998804224122687
+"['btc', 'dot', 'bch']","['bch', 'link', 'ltc', 'eth', 'dot', 'btc']",0.9996858190140987
+"['btc', 'dot', 'bch']","['bch', 'link', 'ltc', 'eth', 'btc']",0.9995830794087281
+"['btc', 'dot', 'bch']","['bch', 'link', 'ltc', 'btc']",0.9997748331507443
+"['btc', 'dot', 'bch']","['bch', 'link', 'eth', 'dot', 'ltc', 'btc']",0.9995968104922464
+"['btc', 'dot', 'bch']","['bch', 'link', 'eth', 'dot', 'btc']",0.9997194805347446
+"['btc', 'dot', 'bch']","['bch', 'link', 'eth', 'ltc', 'dot', 'btc']",0.9996862505030036
+"['btc', 'dot', 'bch']","['bch', 'link', 'eth', 'ltc', 'btc']",0.9995806817463996
+"['btc', 'dot', 'bch']","['bch', 'link', 'eth', 'btc']",0.9996167374699155
+"['btc', 'dot', 'bch']","['bch', 'link', 'btc']",0.9997974707312353
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'eth', 'btc']",0.9996183049155657
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'eth', 'link', 'btc']",0.9995989180448741
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'btc']",0.9998123317469084
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'link', 'eth', 'btc']",0.9996121440819867
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'link', 'btc']",0.9997928765128101
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'bch', 'btc']",0.9996203861327765
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'bch', 'link', 'btc']",0.9996009346337261
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'btc']",0.9996070765137569
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'link', 'bch', 'btc']",0.9996144370307718
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'link', 'btc']",0.9995876898608318
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc']",0.9998859253539998
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'bch', 'eth', 'btc']",0.9996129026638211
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'bch', 'btc']",0.9998069284465817
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'eth', 'bch', 'btc']",0.9996127555084994
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'eth', 'btc']",0.999599445991079
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link', 'btc']",0.9997801761260553
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'eth', 'btc']",0.9996171747862835
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'eth', 'link', 'btc']",0.9995977879375098
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'btc']",0.9998960264435248
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'link', 'eth', 'btc']",0.9996095441865204
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'link', 'btc']",0.9997902761472761
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'dot', 'btc']",0.999704250162652
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'dot', 'link', 'btc']",0.9995985201489107
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'btc']",0.9996015086630773
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'link', 'dot', 'btc']",0.9996991197067088
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'link', 'btc']",0.9995821221181367
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc']",0.9997955322342519
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'dot', 'eth', 'btc']",0.9996142467769554
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'dot', 'btc']",0.9998930976174036
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'eth', 'dot', 'btc']",0.9996980887993764
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'eth', 'btc']",0.9995953479330166
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link', 'btc']",0.9997760773270534
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'bch', 'btc']",0.9996177416009979
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'bch', 'link', 'btc']",0.9995982901534071
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'btc']",0.9996913208848106
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'link', 'bch', 'btc']",0.9996123393522977
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'link', 'btc']",0.9995855922384864
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'dot', 'btc']",0.9997023648321316
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'dot', 'link', 'btc']",0.9995966350177853
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'btc']",0.9996018900867528
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'link', 'dot', 'btc']",0.9996994365732708
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'link', 'btc']",0.9995824389476148
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'btc']",0.9995885807140023
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'dot', 'bch', 'btc']",0.9996126115890146
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'dot', 'btc']",0.9996861904952201
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'bch', 'dot', 'btc']",0.9996964152422423
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'bch', 'btc']",0.9995959410948251
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'link', 'btc']",0.9995691944197899
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'btc']",0.9997803355113543
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'bch', 'eth', 'btc']",0.9996125599165009
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'bch', 'btc']",0.999806585632734
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'eth', 'bch', 'btc']",0.9996146411217504
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'eth', 'btc']",0.9996013315792238
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'dot', 'btc']",0.9998801788168685
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'dot', 'eth', 'btc']",0.9996115554583125
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'dot', 'btc']",0.9998904055479949
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'eth', 'dot', 'btc']",0.9996986303451886
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'eth', 'btc']",0.999595889423173
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'bch', 'btc']",0.9997899119036481
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'dot', 'bch', 'btc']",0.9996115936871101
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'dot', 'btc']",0.9996851725183906
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'bch', 'dot', 'btc']",0.9996962163977884
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'bch', 'btc']",0.9995957422703559
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'eth', 'btc']",0.9995824329794615
+"['btc', 'dot', 'bch', 'ltc']","['ltc', 'link', 'btc']",0.9997631600384417
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'ltc', 'btc']",0.9995811583472207
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'ltc', 'link', 'btc']",0.9995639862960216
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'btc']",0.999617741600998
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'link', 'ltc', 'btc']",0.9995756570827963
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'link', 'btc']",0.9995982901534074
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'bch', 'btc']",0.9995838478029572
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'bch', 'link', 'btc']",0.999564397014902
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'btc']",0.9995686542976271
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'link', 'bch', 'btc']",0.9995782286623333
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'link', 'btc']",0.9995514824612383
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'btc']",0.9996913208848106
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'link', 'bch', 'ltc', 'btc']",0.9995757562962277
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'link', 'bch', 'btc']",0.9996123393522977
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'link', 'ltc', 'bch', 'btc']",0.9995781528741515
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'link', 'ltc', 'btc']",0.9995629594553836
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'link', 'btc']",0.9995855922384864
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'ltc', 'btc']",0.9995796968898066
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'ltc', 'link', 'btc']",0.9995625248637143
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'btc']",0.9997023648321317
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'link', 'ltc', 'btc']",0.9995740019846501
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'link', 'btc']",0.9995966350177854
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'dot', 'btc']",0.9996708745459714
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'dot', 'link', 'btc']",0.9995651480620784
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'btc']",0.9995653074130973
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'link', 'dot', 'btc']",0.9996651292447786
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'link', 'btc']",0.9995481356342054
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc']",0.9996018900867529
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'dot', 'ltc', 'btc']",0.9995767689902562
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'dot', 'btc']",0.9996994365732708
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'ltc', 'dot', 'btc']",0.9996653727877873
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'ltc', 'btc']",0.9995598062359095
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link', 'btc']",0.999582438947615
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'bch', 'btc']",0.9995845149509938
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'bch', 'link', 'btc']",0.9995650641499565
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'btc']",0.9996580917890783
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'link', 'bch', 'btc']",0.9995791128818605
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'link', 'btc']",0.9995523666571061
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'dot', 'btc']",0.9996681905769735
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'dot', 'link', 'btc']",0.9995624643769405
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'btc']",0.9995677192662666
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'link', 'dot', 'btc']",0.9996652624182136
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'link', 'btc']",0.9995482687920548
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc']",0.9995525260060876
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'dot', 'bch', 'btc']",0.9995787701461262
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'dot', 'btc']",0.9996523465613505
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'bch', 'dot', 'btc']",0.9996625709622182
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'bch', 'btc']",0.9995621002163089
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link', 'btc']",0.9995353544467706
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc']",0.9995885807140023
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'dot', 'bch', 'ltc', 'btc']",0.9995760285229813
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'dot', 'bch', 'btc']",0.9996126115890146
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'dot', 'ltc', 'bch', 'btc']",0.9995787179649159
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'dot', 'ltc', 'btc']",0.9995635245375586
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'dot', 'btc']",0.9996861904952202
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'dot', 'ltc', 'btc']",0.9995737480299584
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'dot', 'btc']",0.9996964152422423
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'ltc', 'dot', 'btc']",0.9996649251434917
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'ltc', 'btc']",0.999559358638886
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'bch', 'btc']",0.999595941094825
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'dot', 'bch', 'btc']",0.9995785507620079
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'dot', 'btc']",0.9996521271610838
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'bch', 'dot', 'btc']",0.999662225888723
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'bch', 'btc']",0.999561755177495
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'ltc', 'btc']",0.9995465620079691
+"['btc', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link', 'btc']",0.9995691944197899
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'bch', 'ltc', 'eth', 'btc']",0.9993843129110822
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'bch', 'ltc', 'btc']",0.9995760285229816
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'bch', 'eth', 'ltc', 'btc']",0.9993825749383798
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'bch', 'eth', 'btc']",0.9994186235160152
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'bch', 'btc']",0.9996126115890146
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'ltc', 'bch', 'eth', 'btc']",0.9993847364694232
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'ltc', 'bch', 'btc']",0.9995787179649157
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'ltc', 'eth', 'bch', 'btc']",0.999385117810384
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'ltc', 'eth', 'btc']",0.9993718113238852
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'ltc', 'btc']",0.9995635245375585
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'eth', 'bch', 'ltc', 'btc']",0.9993841282747308
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'eth', 'bch', 'btc']",0.9994207043174866
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'eth', 'ltc', 'bch', 'btc']",0.9993865396907325
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'eth', 'ltc', 'btc']",0.9993713491844523
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'eth', 'btc']",0.9994073973571653
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'dot', 'btc']",0.9996861904952201
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'dot', 'ltc', 'eth', 'btc']",0.9993820328554508
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'dot', 'ltc', 'btc']",0.9995737480299586
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'dot', 'eth', 'ltc', 'btc']",0.9993815707112912
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'dot', 'eth', 'btc']",0.9994176192527033
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'dot', 'btc']",0.9996964152422424
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'ltc', 'dot', 'eth', 'btc']",0.9993861379359321
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'ltc', 'dot', 'btc']",0.9996649251434918
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'ltc', 'eth', 'dot', 'btc']",0.999470363686838
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'ltc', 'eth', 'btc']",0.9993676462242194
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'ltc', 'btc']",0.9995593586388861
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'eth', 'dot', 'ltc', 'btc']",0.999382033560868
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'eth', 'dot', 'btc']",0.9995046772460437
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'eth', 'ltc', 'dot', 'btc']",0.9994714543542258
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'eth', 'ltc', 'btc']",0.999365908280501
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'eth', 'btc']",0.9994019562569558
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'bch', 'btc']",0.9995959410948251
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'dot', 'bch', 'eth', 'btc']",0.999384569298963
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'dot', 'bch', 'btc']",0.9995785507620079
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'dot', 'eth', 'bch', 'btc']",0.9993866500295333
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'dot', 'eth', 'btc']",0.9993733435226337
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'dot', 'btc']",0.9996521271610838
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'bch', 'dot', 'eth', 'btc']",0.9993834394339333
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'bch', 'dot', 'btc']",0.999662225888723
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'bch', 'eth', 'dot', 'btc']",0.9994704944499135
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'bch', 'eth', 'btc']",0.9993677769738561
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'bch', 'btc']",0.9995617551774951
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'eth', 'dot', 'bch', 'btc']",0.9993840061161122
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'eth', 'dot', 'btc']",0.9994575681952585
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'eth', 'bch', 'dot', 'btc']",0.9994686095602303
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'eth', 'bch', 'btc']",0.9993681583083455
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'eth', 'btc']",0.999354852047657
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'ltc', 'btc']",0.9995465620079692
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'dot', 'bch', 'ltc', 'btc']",0.999381081542834
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'dot', 'bch', 'btc']",0.9994176574740838
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'dot', 'ltc', 'bch', 'btc']",0.9993837704602474
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'dot', 'ltc', 'btc']",0.999368579996059
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'dot', 'btc']",0.9994912220302198
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'bch', 'dot', 'ltc', 'btc']",0.9993796203779461
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'bch', 'dot', 'btc']",0.9995022637669774
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'bch', 'ltc', 'dot', 'btc']",0.9994707797839327
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'bch', 'ltc', 'btc']",0.9993652337814438
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'bch', 'btc']",0.9994018091326881
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'ltc', 'dot', 'bch', 'btc']",0.999384437474747
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'ltc', 'dot', 'btc']",0.9994579995856445
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'ltc', 'bch', 'dot', 'btc']",0.99946809635216
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'ltc', 'bch', 'btc']",0.9993676451518548
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'ltc', 'btc']",0.9993524549327686
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'eth', 'btc']",0.9993885024239499
+"['btc', 'dot', 'bch', 'ltc', 'eth', 'link']","['link', 'btc']",0.99956919441979
+"['link', 'dot']","['dot', 'bch', 'ltc', 'eth', 'btc', 'link']",0.9995480881936171
+"['link', 'dot']","['dot', 'bch', 'ltc', 'eth', 'link']",0.9997956481227765
+"['link', 'dot']","['dot', 'bch', 'ltc', 'btc', 'eth', 'link']",0.9995867064142313
+"['link', 'dot']","['dot', 'bch', 'ltc', 'btc', 'link']",0.9997398352231381
+"['link', 'dot']","['dot', 'bch', 'ltc', 'link']",0.9999896576845917
+"['link', 'dot']","['dot', 'bch', 'eth', 'ltc', 'btc', 'link']",0.999546349936102
+"['link', 'dot']","['dot', 'bch', 'eth', 'ltc', 'link']",0.9997961240480062
+"['link', 'dot']","['dot', 'bch', 'eth', 'btc', 'ltc', 'link']",0.9995894801488692
+"['link', 'dot']","['dot', 'bch', 'eth', 'btc', 'link']",0.9995824044212406
+"['link', 'dot']","['dot', 'bch', 'eth', 'link']",0.9998299728495638
+"['link', 'dot']","['dot', 'bch', 'btc', 'ltc', 'eth', 'link']",0.99958953182019
+"['link', 'dot']","['dot', 'bch', 'btc', 'ltc', 'link']",0.999783501385298
+"['link', 'dot']","['dot', 'bch', 'btc', 'eth', 'ltc', 'link']",0.9995894480666633
+"['link', 'dot']","['dot', 'bch', 'btc', 'eth', 'link']",0.9996232898710602
+"['link', 'dot']","['dot', 'bch', 'btc', 'link']",0.9997764242842643
+"['link', 'dot']","['dot', 'bch', 'link']",1.0000239761505176
+"['link', 'dot']","['dot', 'ltc', 'bch', 'eth', 'btc', 'link']",0.999548511821369
+"['link', 'dot']","['dot', 'ltc', 'bch', 'eth', 'link']",0.9997960718554492
+"['link', 'dot']","['dot', 'ltc', 'bch', 'btc', 'eth', 'link']",0.9995893958848954
+"['link', 'dot']","['dot', 'ltc', 'bch', 'btc', 'link']",0.9997425251058079
+"['link', 'dot']","['dot', 'ltc', 'bch', 'link']",0.9999900685783797
+"['link', 'dot']","['dot', 'ltc', 'eth', 'bch', 'btc', 'link']",0.9995488932248224
+"['link', 'dot']","['dot', 'ltc', 'eth', 'bch', 'link']",0.9997963887527415
+"['link', 'dot']","['dot', 'ltc', 'eth', 'btc', 'bch', 'link']",0.99958995441212
+"['link', 'dot']","['dot', 'ltc', 'eth', 'btc', 'link']",0.9995355845577076
+"['link', 'dot']","['dot', 'ltc', 'eth', 'link']",0.9997831413900683
+"['link', 'dot']","['dot', 'ltc', 'btc', 'bch', 'eth', 'link']",0.9995877531714483
+"['link', 'dot']","['dot', 'ltc', 'btc', 'bch', 'link']",0.9997817094729937
+"['link', 'dot']","['dot', 'ltc', 'btc', 'eth', 'bch', 'link']",0.9995874468894161
+"['link', 'dot']","['dot', 'ltc', 'btc', 'eth', 'link']",0.9995742022952354
+"['link', 'dot']","['dot', 'ltc', 'btc', 'link']",0.9997273291886098
+"['link', 'dot']","['dot', 'ltc', 'link']",0.999977148524962
+"['link', 'dot']","['dot', 'eth', 'bch', 'ltc', 'btc', 'link']",0.9995479035270081
+"['link', 'dot']","['dot', 'eth', 'bch', 'ltc', 'link']",0.999797678027135
+"['link', 'dot']","['dot', 'eth', 'bch', 'btc', 'ltc', 'link']",0.9995915613060663
+"['link', 'dot']","['dot', 'eth', 'bch', 'btc', 'link']",0.9995844855637062
+"['link', 'dot']","['dot', 'eth', 'bch', 'link']",0.9998319899045452
+"['link', 'dot']","['dot', 'eth', 'ltc', 'bch', 'btc', 'link']",0.9995503153381833
+"['link', 'dot']","['dot', 'eth', 'ltc', 'bch', 'link']",0.9997978112182279
+"['link', 'dot']","['dot', 'eth', 'ltc', 'btc', 'bch', 'link']",0.9995894921718111
+"['link', 'dot']","['dot', 'eth', 'ltc', 'btc', 'link']",0.9995351223425409
+"['link', 'dot']","['dot', 'eth', 'ltc', 'link']",0.9997848936488101
+"['link', 'dot']","['dot', 'eth', 'btc', 'bch', 'ltc', 'link']",0.9995912434203088
+"['link', 'dot']","['dot', 'eth', 'btc', 'bch', 'link']",0.9996255482131269
+"['link', 'dot']","['dot', 'eth', 'btc', 'ltc', 'bch', 'link']",0.9995911669703763
+"['link', 'dot']","['dot', 'eth', 'btc', 'ltc', 'link']",0.99957825207084
+"['link', 'dot']","['dot', 'eth', 'btc', 'link']",0.9995711764226908
+"['link', 'dot']","['dot', 'eth', 'link']",0.9998187420701549
+"['link', 'dot']","['dot', 'btc', 'bch', 'ltc', 'eth', 'link']",0.9996761014798937
+"['link', 'dot']","['dot', 'btc', 'bch', 'ltc', 'link']",0.9998700878437766
+"['link', 'dot']","['dot', 'btc', 'bch', 'eth', 'ltc', 'link']",0.9996765773482164
+"['link', 'dot']","['dot', 'btc', 'bch', 'eth', 'link']",0.9997104221024363
+"['link', 'dot']","['dot', 'btc', 'bch', 'link']",0.9999044022062064
+"['link', 'dot']","['dot', 'btc', 'ltc', 'bch', 'eth', 'link']",0.9996760379405231
+"['link', 'dot']","['dot', 'btc', 'ltc', 'bch', 'link']",0.9998700113725177
+"['link', 'dot']","['dot', 'btc', 'ltc', 'eth', 'bch', 'link']",0.9996763547997691
+"['link', 'dot']","['dot', 'btc', 'ltc', 'eth', 'link']",0.9996631090275532
+"['link', 'dot']","['dot', 'btc', 'ltc', 'link']",0.9998570928702609
+"['link', 'dot']","['dot', 'btc', 'eth', 'bch', 'ltc', 'link']",0.9996758080878397
+"['link', 'dot']","['dot', 'btc', 'eth', 'bch', 'link']",0.9997101157828173
+"['link', 'dot']","['dot', 'btc', 'eth', 'ltc', 'bch', 'link']",0.9996759412626973
+"['link', 'dot']","['dot', 'btc', 'eth', 'ltc', 'link']",0.9996630252678617
+"['link', 'dot']","['dot', 'btc', 'eth', 'link']",0.9996968695632664
+"['link', 'dot']","['dot', 'btc', 'link']",0.9998500152483
+"['link', 'dot']","['dot', 'link']",1.0000112728280999
+"['link', 'dot', 'bch']","['bch', 'dot', 'ltc', 'eth', 'btc', 'link']",0.999562477422443
+"['link', 'dot', 'bch']","['bch', 'dot', 'ltc', 'eth', 'link']",0.9998100409154095
+"['link', 'dot', 'bch']","['bch', 'dot', 'ltc', 'btc', 'eth', 'link']",0.9996010961989952
+"['link', 'dot', 'bch']","['bch', 'dot', 'ltc', 'btc', 'link']",0.9997542272123036
+"['link', 'dot', 'bch']","['bch', 'dot', 'ltc', 'link']",1.0000040532701349
+"['link', 'dot', 'bch']","['bch', 'dot', 'eth', 'ltc', 'btc', 'link']",0.9995620151948406
+"['link', 'dot', 'bch']","['bch', 'dot', 'eth', 'ltc', 'link']",0.9998117932212964
+"['link', 'dot', 'bch']","['bch', 'dot', 'eth', 'btc', 'ltc', 'link']",0.9996051460835602
+"['link', 'dot', 'bch']","['bch', 'dot', 'eth', 'btc', 'link']",0.9995980702450381
+"['link', 'dot', 'bch']","['bch', 'dot', 'eth', 'link']",0.9998456425533452
+"['link', 'dot', 'bch']","['bch', 'dot', 'btc', 'ltc', 'eth', 'link']",0.9996900053233805
+"['link', 'dot', 'bch']","['bch', 'dot', 'btc', 'ltc', 'link']",0.9998839943852933
+"['link', 'dot', 'bch']","['bch', 'dot', 'btc', 'eth', 'ltc', 'link']",0.9996899215614354
+"['link', 'dot', 'bch']","['bch', 'dot', 'btc', 'eth', 'link']",0.9997237667674334
+"['link', 'dot', 'bch']","['bch', 'dot', 'btc', 'link']",0.9998769165729064
+"['link', 'dot', 'bch']","['bch', 'dot', 'link']",1.0000381784913994
+"['link', 'dot', 'bch']","['bch', 'ltc', 'dot', 'eth', 'btc', 'link']",0.999566583244122
+"['link', 'dot', 'bch']","['bch', 'ltc', 'dot', 'eth', 'link']",0.999814147753985
+"['link', 'dot', 'bch']","['bch', 'ltc', 'dot', 'btc', 'eth', 'link']",0.9996922758071192
+"['link', 'dot', 'bch']","['bch', 'ltc', 'dot', 'btc', 'link']",0.9998454207884252
+"['link', 'dot', 'bch']","['bch', 'ltc', 'dot', 'link']",1.0000066776272225
+"['link', 'dot', 'bch']","['bch', 'ltc', 'eth', 'dot', 'btc', 'link']",0.9996508242025047
+"['link', 'dot', 'bch']","['bch', 'ltc', 'eth', 'dot', 'link']",0.9998120496564202
+"['link', 'dot', 'bch']","['bch', 'ltc', 'eth', 'btc', 'dot', 'link']",0.9995998489042434
+"['link', 'dot', 'bch']","['bch', 'ltc', 'eth', 'btc', 'link']",0.9995480881936171
+"['link', 'dot', 'bch']","['bch', 'ltc', 'eth', 'link']",0.9997956481227765
+"['link', 'dot', 'bch']","['bch', 'ltc', 'btc', 'dot', 'eth', 'link']",0.9995991173974397
+"['link', 'dot', 'bch']","['bch', 'ltc', 'btc', 'dot', 'link']",0.9997916058632141
+"['link', 'dot', 'bch']","['bch', 'ltc', 'btc', 'eth', 'dot', 'link']",0.9996031045202102
+"['link', 'dot', 'bch']","['bch', 'ltc', 'btc', 'eth', 'link']",0.9995867064142314
+"['link', 'dot', 'bch']","['bch', 'ltc', 'btc', 'link']",0.9997398352231383
+"['link', 'dot', 'bch']","['bch', 'ltc', 'link']",0.9999896576845918
+"['link', 'dot', 'bch']","['bch', 'eth', 'dot', 'ltc', 'btc', 'link']",0.9995624781279876
+"['link', 'dot', 'bch']","['bch', 'eth', 'dot', 'ltc', 'link']",0.9998122562701248
+"['link', 'dot', 'bch']","['bch', 'eth', 'dot', 'btc', 'ltc', 'link']",0.9996922204121237
+"['link', 'dot', 'bch']","['bch', 'eth', 'dot', 'btc', 'link']",0.9996851439572344
+"['link', 'dot', 'bch']","['bch', 'eth', 'dot', 'link']",0.9998463749463008
+"['link', 'dot', 'bch']","['bch', 'eth', 'ltc', 'dot', 'btc', 'link']",0.9996519150668192
+"['link', 'dot', 'bch']","['bch', 'eth', 'ltc', 'dot', 'link']",0.9998131406966713
+"['link', 'dot', 'bch']","['bch', 'eth', 'ltc', 'btc', 'dot', 'link']",0.9995981105567141
+"['link', 'dot', 'bch']","['bch', 'eth', 'ltc', 'btc', 'link']",0.9995463499361021
+"['link', 'dot', 'bch']","['bch', 'eth', 'ltc', 'link']",0.9997961240480061
+"['link', 'dot', 'bch']","['bch', 'eth', 'btc', 'dot', 'ltc', 'link']",0.999600055474096
+"['link', 'dot', 'bch']","['bch', 'eth', 'btc', 'dot', 'link']",0.9996341669089022
+"['link', 'dot', 'bch']","['bch', 'eth', 'btc', 'ltc', 'dot', 'link']",0.9996064932804307
+"['link', 'dot', 'bch']","['bch', 'eth', 'btc', 'ltc', 'link']",0.9995894801488692
+"['link', 'dot', 'bch']","['bch', 'eth', 'btc', 'link']",0.9995824044212406
+"['link', 'dot', 'bch']","['bch', 'eth', 'link']",0.9998299728495639
+"['link', 'dot', 'bch']","['bch', 'btc', 'dot', 'ltc', 'eth', 'link']",0.9996001071459635
+"['link', 'dot', 'bch']","['bch', 'btc', 'dot', 'ltc', 'link']",0.9997940787632055
+"['link', 'dot', 'bch']","['bch', 'btc', 'dot', 'eth', 'ltc', 'link']",0.9996018590839123
+"['link', 'dot', 'bch']","['bch', 'btc', 'dot', 'eth', 'link']",0.9996357013084929
+"['link', 'dot', 'bch']","['bch', 'btc', 'dot', 'link']",0.9998281968190725
+"['link', 'dot', 'bch']","['bch', 'btc', 'ltc', 'dot', 'eth', 'link']",0.9996080276375431
+"['link', 'dot', 'bch']","['bch', 'btc', 'ltc', 'dot', 'link']",0.9998005178191239
+"['link', 'dot', 'bch']","['bch', 'btc', 'ltc', 'eth', 'dot', 'link']",0.9996059299725191
+"['link', 'dot', 'bch']","['bch', 'btc', 'ltc', 'eth', 'link']",0.9995895318201898
+"['link', 'dot', 'bch']","['bch', 'btc', 'ltc', 'link']",0.9997835013852983
+"['link', 'dot', 'bch']","['bch', 'btc', 'eth', 'dot', 'ltc', 'link']",0.9996055769539592
+"['link', 'dot', 'bch']","['bch', 'btc', 'eth', 'dot', 'link']",0.9996396885771864
+"['link', 'dot', 'bch']","['bch', 'btc', 'eth', 'ltc', 'dot', 'link']",0.9996064611976788
+"['link', 'dot', 'bch']","['bch', 'btc', 'eth', 'ltc', 'link']",0.9995894480666634
+"['link', 'dot', 'bch']","['bch', 'btc', 'eth', 'link']",0.9996232898710601
+"['link', 'dot', 'bch']","['bch', 'btc', 'link']",0.9997764242842645
+"['link', 'dot', 'bch']","['bch', 'link']",1.0000239761505176
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'eth', 'btc', 'link']",0.9995778111910774
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'eth', 'link']",0.9998253784817868
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'btc', 'eth', 'link']",0.9996186964530221
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'btc', 'link']",0.9997718301625509
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'bch', 'link']",1.0000193808912663
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'bch', 'btc', 'link']",0.9995798923239797
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'bch', 'link']",0.9998273955274996
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'btc', 'bch', 'link']",0.9996209547847116
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'btc', 'link']",0.999566583244122
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'eth', 'link']",0.9998141477539848
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'bch', 'eth', 'link']",0.9997058282840129
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'bch', 'link']",0.9998998074964153
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'eth', 'bch', 'link']",0.9997055219658016
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'eth', 'link']",0.9996922758071188
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'btc', 'link']",0.999845420788425
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'dot', 'link']",1.0000066776272223
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'eth', 'btc', 'link']",0.9995766811075756
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'eth', 'link']",0.9998242481183952
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'btc', 'eth', 'link']",0.9997023749403494
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'btc', 'link']",0.9998555214687632
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'dot', 'link']",1.0000167799366162
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'dot', 'btc', 'link']",0.9996637529565916
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'dot', 'link']",0.9998249804956796
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'btc', 'dot', 'link']",0.9996127769990528
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'btc', 'link']",0.9995610156189915
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'eth', 'link']",0.9998085787499104
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'dot', 'eth', 'link']",0.9996143113658107
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'dot', 'link']",0.9998068027574217
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'eth', 'dot', 'link']",0.9996182985491859
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'eth', 'link']",0.9996019001939549
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'btc', 'link']",0.9997550313304289
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'bch', 'link']",1.0000025778996322
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'bch', 'btc', 'link']",0.9995772478993289
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'bch', 'link']",0.9998247504480701
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'btc', 'bch', 'link']",0.9997052003253909
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'btc', 'link']",0.9996508242025045
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'dot', 'link']",0.9998120496564202
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'dot', 'btc', 'link']",0.9996618677024444
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'dot', 'link']",0.9998230949374752
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'btc', 'dot', 'link']",0.9996131584270281
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'btc', 'link']",0.9995613970272158
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'bch', 'link']",0.9998088956511666
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'dot', 'bch', 'link']",0.9996125470002691
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'dot', 'link']",0.9995998489042431
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'bch', 'dot', 'link']",0.9996166550826574
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'bch', 'link']",0.9996024587281662
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'btc', 'link']",0.999548088193617
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'eth', 'link']",0.9997956481227767
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'bch', 'eth', 'link']",0.9996103457098452
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'bch', 'link']",0.999804306395163
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'eth', 'bch', 'link']",0.9996123623217513
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'eth', 'link']",0.9995991173974396
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'dot', 'link']",0.999791605863214
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'dot', 'eth', 'link']",0.9996159235635553
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'dot', 'link']",0.9998084152656203
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'eth', 'dot', 'link']",0.9996166557882403
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'eth', 'link']",0.9996002574599582
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'bch', 'link']",0.9997942161877893
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'dot', 'bch', 'link']",0.9996158026575926
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'dot', 'link']",0.9996031045202102
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'bch', 'dot', 'link']",0.9996141474929736
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'bch', 'link']",0.9995999511740946
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'eth', 'link']",0.9995867064142314
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'btc', 'link']",0.9997398352231384
+"['link', 'dot', 'bch', 'ltc']","['ltc', 'link']",0.9999896576845918
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'ltc', 'btc', 'link']",0.9995406661275095
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'ltc', 'link']",0.9997904388191011
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'btc', 'ltc', 'link']",0.9995843235904561
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'btc', 'link']",0.999577247899329
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'bch', 'link']",0.9998247504480704
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'bch', 'btc', 'link']",0.9995433554742984
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'bch', 'link']",0.9997908496310303
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'btc', 'bch', 'link']",0.9995825320351381
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'btc', 'link']",0.9995281625844448
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'ltc', 'link']",0.9997779321515576
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'btc', 'bch', 'ltc', 'link']",0.9996708927991
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'btc', 'bch', 'link']",0.999705200325391
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'btc', 'ltc', 'bch', 'link']",0.9996708163430762
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'btc', 'ltc', 'link']",0.9996579004144553
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'btc', 'link']",0.9996508242025047
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'dot', 'link']",0.9998120496564202
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'ltc', 'btc', 'link']",0.9995392047292979
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'ltc', 'link']",0.9997889770557044
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'btc', 'ltc', 'link']",0.9996689439925684
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'btc', 'link']",0.9996618677024445
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'dot', 'link']",0.9998230949374752
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'dot', 'btc', 'link']",0.9996303786919299
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'dot', 'link']",0.9997916008483574
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'btc', 'dot', 'link']",0.9995765753409824
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'btc', 'link']",0.9995248158354946
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'ltc', 'link']",0.9997745845662968
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'dot', 'ltc', 'link']",0.9995790477091138
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'dot', 'link']",0.9996131584270282
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'ltc', 'dot', 'link']",0.9995854853801504
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'ltc', 'link']",0.9995684726061398
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'btc', 'link']",0.9995613970272159
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'bch', 'link']",0.9998088956511666
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'bch', 'btc', 'link']",0.9995440225953093
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'bch', 'link']",0.9997915169172251
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'btc', 'bch', 'link']",0.9996719707683149
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'btc', 'link']",0.999617596452856
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'dot', 'link']",0.9997788165477411
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'dot', 'btc', 'link']",0.9996276948316575
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'dot', 'link']",0.9997889165552272
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'btc', 'dot', 'link']",0.9995789872213401
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'btc', 'link']",0.9995272275909618
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'bch', 'link']",0.9997747177543133
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'dot', 'bch', 'link']",0.9995764914279012
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'dot', 'link']",0.99956379378989
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'bch', 'dot', 'link']",0.9995805993621131
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'bch', 'link']",0.9995664035196777
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'btc', 'link']",0.9995120349462492
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'ltc', 'link']",0.9997618004832673
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'dot', 'bch', 'ltc', 'link']",0.9995782426536219
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'dot', 'bch', 'link']",0.999612547000269
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'dot', 'ltc', 'bch', 'link']",0.9995786533783603
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'dot', 'ltc', 'link']",0.9995657386405018
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'dot', 'link']",0.9995998489042431
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'dot', 'ltc', 'link']",0.9995825442454235
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'dot', 'link']",0.9996166550826575
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'ltc', 'dot', 'link']",0.9995851674963251
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'ltc', 'link']",0.9995681547277249
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'bch', 'link']",0.9996024587281662
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'dot', 'bch', 'link']",0.9995848739703176
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'dot', 'link']",0.9995721762258228
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'bch', 'dot', 'link']",0.9995822741457782
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'bch', 'link']",0.9995680782795581
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'ltc', 'link']",0.9995551636783317
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'btc', 'link']",0.999548088193617
+"['link', 'dot', 'bch', 'ltc', 'eth']","['eth', 'link']",0.9997956481227765
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'bch', 'ltc', 'eth', 'link']",0.9993843129110822
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'bch', 'ltc', 'link']",0.999578242653622
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'bch', 'eth', 'ltc', 'link']",0.999384788640507
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'bch', 'eth', 'link']",0.999418623516015
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'bch', 'link']",0.999612547000269
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'bch', 'eth', 'link']",0.9993847364694228
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'bch', 'link']",0.9995786533783602
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'eth', 'bch', 'link']",0.9993850532363374
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'eth', 'link']",0.999371811323885
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'ltc', 'link']",0.9995657386405017
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'bch', 'ltc', 'link']",0.9993863419802987
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'bch', 'link']",0.9994206397411409
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'ltc', 'bch', 'link']",0.9993864751165942
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'ltc', 'link']",0.9993735628617136
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'eth', 'link']",0.9994073973571651
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'dot', 'link']",0.9995998489042431
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'dot', 'ltc', 'eth', 'link']",0.999388613668325
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'dot', 'ltc', 'link']",0.9995825442454236
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'dot', 'eth', 'ltc', 'link']",0.9993903652356022
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'dot', 'eth', 'link']",0.9994242002999097
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'dot', 'link']",0.9996166550826576
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'dot', 'eth', 'link']",0.9993927187758377
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'dot', 'link']",0.9995851674963251
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'eth', 'dot', 'link']",0.9993906215626366
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'eth', 'link']",0.9993742269423592
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'ltc', 'link']",0.9995681547277249
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'dot', 'ltc', 'link']",0.999390828089252
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'dot', 'link']",0.9994249323841563
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'ltc', 'dot', 'link']",0.9993917121430063
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'ltc', 'link']",0.999374702666983
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'eth', 'link']",0.9994085372010232
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'bch', 'link']",0.9996024587281662
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'bch', 'eth', 'link']",0.9993909558545939
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'bch', 'link']",0.9995848739703177
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'eth', 'bch', 'link']",0.9993929720239032
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'eth', 'link']",0.9993797300065264
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'dot', 'link']",0.9995721762258227
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'dot', 'eth', 'link']",0.9993898259823438
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'dot', 'link']",0.9995822741457784
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'eth', 'dot', 'link']",0.999390558041411
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'eth', 'link']",0.9993741634221758
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'bch', 'link']",0.9995680782795583
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'dot', 'bch', 'link']",0.9993903280937572
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'dot', 'link']",0.9993776328205821
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'bch', 'dot', 'link']",0.9993886733024792
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'bch', 'link']",0.9993744801857392
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'eth', 'link']",0.9993612384133801
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'ltc', 'link']",0.9995551636783319
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'bch', 'ltc', 'link']",0.9993897815382526
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'bch', 'link']",0.9994240794171365
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'ltc', 'bch', 'link']",0.9993901921855528
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'ltc', 'link']",0.999377279882647
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'dot', 'link']",0.9994113837152178
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'dot', 'ltc', 'link']",0.9993883203606452
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'dot', 'link']",0.9994224245699732
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'ltc', 'dot', 'link']",0.9993909431018361
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'ltc', 'link']",0.9993739336389018
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'bch', 'link']",0.9994082309739044
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'dot', 'bch', 'link']",0.9993908592043385
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'dot', 'link']",0.9993781639244167
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'bch', 'dot', 'link']",0.9993882598844128
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'bch', 'link']",0.9993740667735441
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'ltc', 'link']",0.9993611546789819
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'eth', 'link']",0.9993949887543454
+"['link', 'dot', 'bch', 'ltc', 'eth', 'btc']","['btc', 'link']",0.9995480881936171
