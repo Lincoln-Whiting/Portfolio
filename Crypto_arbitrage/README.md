@@ -6,7 +6,7 @@ Cryptocurrency markets, due to their volatile nature, often experience disequili
 
 The diagram below illustrates an example of this process:
 
-![Triangular Arbitrage Diagram](/Users/lincolnwhiting/Git Portfolio/Portfolio/assets/Triangular Arbitrage: Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC).png)
+![Triangular Arbitrage Diagram](assets/Triangular Arbitrage: Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC).png)
 
 - **BTC → ETH** (Exchange Rate: X)
 - **ETH → USDT** (Exchange Rate: Y)
